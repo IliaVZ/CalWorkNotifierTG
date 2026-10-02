@@ -1,0 +1,58 @@
+name: Send Telegram message
+
+on:
+  schedule:
+    # GitHub cron runs on UTC, and Pacific time shifts by an hour with daylight
+    # saving. So each message has two schedules, and the "Pick message" step
+    # only lets through the one that matches the current Pacific offset.
+    - cron: "0 12 * * *"  # daily,  5am Pacific in summer (PDT, -0700)
+    - cron: "0 13 * * *"  # daily,  5am Pacific in winter (PST, -0800)
+    - cron: "0 4 * * 2"   # weekly, Mon 9pm Pacific in summer (= Tue 04:00 UTC)
+    - cron: "0 5 * * 2"   # weekly, Mon 9pm Pacific in winter (= Tue 05:00 UTC)
+  workflow_dispatch:  # "Run workflow" button on GitHub, for testing
+    inputs:
+      message:
+        description: Which message to send
+        type: choice
+        options: [daily.txt, weekly.txt]
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pick message
+        id: pick
+        run: |
+          case "${{ github.event.schedule }}" in
+            "0 12 * * *") file=daily.txt;  want=-0700 ;;
+            "0 13 * * *") file=daily.txt;  want=-0800 ;;
+            "0 4 * * 2")  file=weekly.txt; want=-0700 ;;
+            "0 5 * * 2")  file=weekly.txt; want=-0800 ;;
+            *)            file="${{ inputs.message }}"; want=any ;;
+          esac
+          offset=$(TZ=America/Los_Angeles date +%z)
+          if [ "$want" != any ] && [ "$want" != "$offset" ]; then
+            echo "Pacific offset is $offset, this schedule is for $want -- skipping"
+            echo "send=no" >> "$GITHUB_OUTPUT"
+          else
+            echo "send=yes" >> "$GITHUB_OUTPUT"
+            echo "file=$file" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Download message from the repo
+        if: steps.pick.outputs.send == 'yes'
+        run: |
+          curl --fail -sS -o message.txt \
+            "https://raw.githubusercontent.com/${{ github.repository }}/main/${{ steps.pick.outputs.file }}"
+          cat message.txt
+
+      - name: Send to Telegram
+        if: steps.pick.outputs.send == 'yes'
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          curl --fail-with-body -sS "https://api.telegram.org/bot${TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${CHAT_ID}" \
+            --data-urlencode "text@message.txt" \
+            --data-urlencode 'link_preview_options={"is_disabled": true}'
