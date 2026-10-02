@@ -52,6 +52,15 @@ jobs:
           TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
+          # Catch badly pasted secrets before Telegram answers with a vague 404.
+          if ! [[ "$TOKEN" =~ ^[0-9]+:[A-Za-z0-9_-]+$ ]]; then
+            echo "::error::TELEGRAM_BOT_TOKEN should look like 123456789:AAH... (nothing else in the value). It is ${#TOKEN} characters long."
+            exit 1
+          fi
+          if ! [[ "$CHAT_ID" =~ ^-?[0-9]+$ ]]; then
+            echo "::error::TELEGRAM_CHAT_ID should be just a number (nothing else in the value). It is ${#CHAT_ID} characters long."
+            exit 1
+          fi
           curl --fail-with-body -sS "https://api.telegram.org/bot${TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${CHAT_ID}" \
             --data-urlencode "text@message.txt" \
