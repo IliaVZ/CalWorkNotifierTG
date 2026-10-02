@@ -1,0 +1,46 @@
+name: Update deadlines
+
+on:
+  schedule:
+    # GitHub cron runs on UTC. 08:30 UTC = 00:30 Pacific in winter (PST),
+    # 01:30 Pacific in summer (PDT) -- always after midnight, never before.
+    - cron: "30 8 * * *"
+  workflow_dispatch:  # "Run workflow" button on GitHub, for testing
+
+permissions:
+  contents: write  # so the job can commit the updated files
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - run: pip install -r requirements.txt
+
+      # Re-parse the sites every other day: Mon, Wed, Fri, Sun (Pacific),
+      # or whenever the workflow is started by hand.
+      - name: Parse sites
+        run: |
+          weekday=$(TZ=America/Los_Angeles date +%u)  # 1 = Mon ... 7 = Sun
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [[ "$weekday" =~ ^[1357]$ ]]; then
+            python fetch_data.py
+          else
+            echo "Not a parse day, keeping existing deadlines.json"
+          fi
+
+      # Messages are rebuilt every day so "due tonight" is always for today.
+      - name: Build messages
+        run: python make_messages.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "deadline-bot"
+          git config user.email "deadline-bot@users.noreply.github.com"
+          git add deadlines.json daily.txt weekly.txt
+          git diff --cached --quiet || git commit -m "Update deadlines $(TZ=America/Los_Angeles date +%F)"
+          git push

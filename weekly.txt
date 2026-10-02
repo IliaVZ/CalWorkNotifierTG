@@ -1,0 +1,10 @@
+🗓 This week (Fri Oct 2 – Thu Oct 8)
+
+• Fri Oct 2 — CS 61A: Project 2 Computer Aided Typing Software
+  https://cs61a.org/fa26/projects/cats/
+• Fri Oct 2 — Data C8: Project 1 (checkpoint)
+  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject1%2Fproject1.ipynb
+• Wed Oct 7 — CS 61A: Lab 5 Recursive Data
+  no link yet
+• Thu Oct 8 — CS 61A: Homework 4 Recursive Data
+  no link yet

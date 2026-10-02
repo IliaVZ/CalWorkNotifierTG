@@ -1,0 +1,261 @@
+{
+  "generated": "2026-10-01",
+  "classes": {
+    "CS 61A": [
+      {
+        "title": "Project 2 Computer Aided Typing Software",
+        "raw_due": "Fri 10/2",
+        "due": "2026-10-02",
+        "url": "https://cs61a.org/fa26/projects/cats/"
+      },
+      {
+        "title": "Lab 5 Recursive Data",
+        "raw_due": "Wed 10/7",
+        "due": "2026-10-07",
+        "url": null
+      },
+      {
+        "title": "Homework 4 Recursive Data",
+        "raw_due": "Thu 10/8",
+        "due": "2026-10-08",
+        "url": null
+      },
+      {
+        "title": "Lab 6 Mutation",
+        "raw_due": "Wed 10/14",
+        "due": "2026-10-14",
+        "url": null
+      },
+      {
+        "title": "Homework 5 Mutation",
+        "raw_due": "Thu 10/15",
+        "due": "2026-10-15",
+        "url": null
+      },
+      {
+        "title": "Project 4 Ants Vs. SomeBees (checkpoint 1)",
+        "raw_due": "Fri 10/16",
+        "due": "2026-10-16",
+        "url": null
+      },
+      {
+        "title": "Project 4 Ants Vs. SomeBees (checkpoint 2)",
+        "raw_due": "Wed 10/21",
+        "due": "2026-10-21",
+        "url": null
+      },
+      {
+        "title": "Lab 7 Lazy Evaluation",
+        "raw_due": "Wed 10/21",
+        "due": "2026-10-21",
+        "url": null
+      },
+      {
+        "title": "Homework 6 Classes",
+        "raw_due": "Thu 10/22",
+        "due": "2026-10-22",
+        "url": null
+      },
+      {
+        "title": "Project 4 Ants Vs. SomeBees",
+        "raw_due": "Fri 10/23",
+        "due": "2026-10-23",
+        "url": null
+      },
+      {
+        "title": "Lab 8 Gleam Types",
+        "raw_due": "Wed 11/4",
+        "due": "2026-11-04",
+        "url": null
+      },
+      {
+        "title": "Homework 7 Gleam",
+        "raw_due": "Thu 11/5",
+        "due": "2026-11-05",
+        "url": null
+      },
+      {
+        "title": "Lab 9 Coding Agents",
+        "raw_due": "Wed 11/11",
+        "due": "2026-11-11",
+        "url": null
+      },
+      {
+        "title": "Homework 8 Gleam Data",
+        "raw_due": "Thu 11/12",
+        "due": "2026-11-12",
+        "url": null
+      },
+      {
+        "title": "Project 5 Animator (checkpoint)",
+        "raw_due": "Fri 11/13",
+        "due": "2026-11-13",
+        "url": null
+      },
+      {
+        "title": "Project 5 Animator (TypeScript) (checkpoint)",
+        "raw_due": "Fri 11/13",
+        "due": "2026-11-13",
+        "url": null
+      },
+      {
+        "title": "Lab 10 SQL",
+        "raw_due": "Wed 11/18",
+        "due": "2026-11-18",
+        "url": null
+      },
+      {
+        "title": "Project 5 Animator",
+        "raw_due": "Mon 11/23",
+        "due": "2026-11-23",
+        "url": null
+      },
+      {
+        "title": "Homework 9 SQL",
+        "raw_due": "Wed 11/25",
+        "due": "2026-11-25",
+        "url": null
+      },
+      {
+        "title": "Project 5 Animator (TypeScript)",
+        "raw_due": "Tue 12/1",
+        "due": "2026-12-01",
+        "url": null
+      },
+      {
+        "title": "Lab 11 Testing",
+        "raw_due": "Wed 12/2",
+        "due": "2026-12-02",
+        "url": null
+      },
+      {
+        "title": "Homework 10 Finale",
+        "raw_due": "Sun 12/13",
+        "due": "2026-12-13",
+        "url": null
+      }
+    ],
+    "Data C8": [
+      {
+        "title": "Project 1 (checkpoint)",
+        "raw_due": "10/2",
+        "due": "2026-10-02",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject1%2Fproject1.ipynb"
+      },
+      {
+        "title": "Project 1 (entire project)",
+        "raw_due": "10/9",
+        "due": "2026-10-09",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject1%2Fproject1.ipynb"
+      },
+      {
+        "title": "Lab 5",
+        "raw_due": "10/9",
+        "due": "2026-10-09",
+        "url": null
+      },
+      {
+        "title": "Homework 5",
+        "raw_due": "10/14",
+        "due": "2026-10-14",
+        "url": null
+      },
+      {
+        "title": "Lab 6",
+        "raw_due": "10/16",
+        "due": "2026-10-16",
+        "url": null
+      },
+      {
+        "title": "Homework 6",
+        "raw_due": "10/21",
+        "due": "2026-10-21",
+        "url": null
+      },
+      {
+        "title": "Lab 7",
+        "raw_due": "10/23",
+        "due": "2026-10-23",
+        "url": null
+      },
+      {
+        "title": "Homework 7",
+        "raw_due": "10/28",
+        "due": "2026-10-28",
+        "url": null
+      },
+      {
+        "title": "Lab 8",
+        "raw_due": "10/30",
+        "due": "2026-10-30",
+        "url": null
+      },
+      {
+        "title": "Homework 8",
+        "raw_due": "11/10",
+        "due": "2026-11-10",
+        "url": null
+      },
+      {
+        "title": "Project 2 (checkpoint)",
+        "raw_due": "11/13",
+        "due": "2026-11-13",
+        "url": null
+      },
+      {
+        "title": "Homework 9",
+        "raw_due": "11/18",
+        "due": "2026-11-18",
+        "url": null
+      },
+      {
+        "title": "Project 2 (entire project)",
+        "raw_due": "11/20",
+        "due": "2026-11-20",
+        "url": null
+      },
+      {
+        "title": "Lab 9",
+        "raw_due": "11/20",
+        "due": "2026-11-20",
+        "url": null
+      },
+      {
+        "title": "Homework 10",
+        "raw_due": "11/25",
+        "due": "2026-11-25",
+        "url": null
+      },
+      {
+        "title": "Project 3 (checkpoint)",
+        "raw_due": "11/30",
+        "due": "2026-11-30",
+        "url": null
+      },
+      {
+        "title": "Project 3 (entire project)",
+        "raw_due": "12/4",
+        "due": "2026-12-04",
+        "url": null
+      },
+      {
+        "title": "Lab 10",
+        "raw_due": "12/4",
+        "due": "2026-12-04",
+        "url": null
+      },
+      {
+        "title": "Homework 11",
+        "raw_due": "12/6",
+        "due": "2026-12-06",
+        "url": null
+      },
+      {
+        "title": "Homework 12",
+        "raw_due": "12/9",
+        "due": "2026-12-09",
+        "url": null
+      }
+    ]
+  }
+}
