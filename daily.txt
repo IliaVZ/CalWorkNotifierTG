@@ -1,5 +1,4 @@
-📅 Nothing due tonight (Thu Oct 1) 🎉
-Next deadline: Fri Oct 2
+📅 Due tonight (Fri Oct 2)
 
 CS 61A
 • Project 2 Computer Aided Typing Software
