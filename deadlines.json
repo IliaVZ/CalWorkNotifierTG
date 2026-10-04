@@ -1,13 +1,7 @@
 {
-  "generated": "2026-10-02",
+  "generated": "2026-10-04",
   "classes": {
     "CS 61A": [
-      {
-        "title": "Project 2 Computer Aided Typing Software",
-        "raw_due": "Fri 10/2",
-        "due": "2026-10-02",
-        "url": "https://cs61a.org/fa26/projects/cats/"
-      },
       {
         "title": "Lab 5 Recursive Data",
         "raw_due": "Wed 10/7",
@@ -18,7 +12,13 @@
         "title": "Homework 4 Recursive Data",
         "raw_due": "Thu 10/8",
         "due": "2026-10-08",
-        "url": null
+        "url": "https://cs61a.org/fa26/hw/hw04/"
+      },
+      {
+        "title": "Hog Strategy Contest (Optional)",
+        "raw_due": "Mon 10/12",
+        "due": "2026-10-12",
+        "url": "https://cs61a.org/fa26/projects/hog_contest/"
       },
       {
         "title": "Lab 6 Mutation",
@@ -33,13 +33,13 @@
         "url": null
       },
       {
-        "title": "Project 4 Ants Vs. SomeBees (checkpoint 1)",
+        "title": "Project 3 Ants Vs. SomeBees (checkpoint 1)",
         "raw_due": "Fri 10/16",
         "due": "2026-10-16",
         "url": null
       },
       {
-        "title": "Project 4 Ants Vs. SomeBees (checkpoint 2)",
+        "title": "Project 3 Ants Vs. SomeBees (checkpoint 2)",
         "raw_due": "Wed 10/21",
         "due": "2026-10-21",
         "url": null
@@ -57,7 +57,7 @@
         "url": null
       },
       {
-        "title": "Project 4 Ants Vs. SomeBees",
+        "title": "Project 3 Ants Vs. SomeBees",
         "raw_due": "Fri 10/23",
         "due": "2026-10-23",
         "url": null
@@ -87,13 +87,13 @@
         "url": null
       },
       {
-        "title": "Project 5 Animator (checkpoint)",
+        "title": "Project 4 Animator (checkpoint)",
         "raw_due": "Fri 11/13",
         "due": "2026-11-13",
         "url": null
       },
       {
-        "title": "Project 5 Animator (TypeScript) (checkpoint)",
+        "title": "Project 4 Animator (TypeScript) (checkpoint)",
         "raw_due": "Fri 11/13",
         "due": "2026-11-13",
         "url": null
@@ -105,7 +105,7 @@
         "url": null
       },
       {
-        "title": "Project 5 Animator",
+        "title": "Project 4 Animator",
         "raw_due": "Mon 11/23",
         "due": "2026-11-23",
         "url": null
@@ -117,7 +117,7 @@
         "url": null
       },
       {
-        "title": "Project 5 Animator (TypeScript)",
+        "title": "Project 4 Animator (TypeScript)",
         "raw_due": "Tue 12/1",
         "due": "2026-12-01",
         "url": null
@@ -136,12 +136,6 @@
       }
     ],
     "Data C8": [
-      {
-        "title": "Project 1 (checkpoint)",
-        "raw_due": "10/2",
-        "due": "2026-10-02",
-        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject1%2Fproject1.ipynb"
-      },
       {
         "title": "Project 1 (entire project)",
         "raw_due": "10/9",
