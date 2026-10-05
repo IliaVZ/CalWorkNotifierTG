@@ -1,6 +1,6 @@
-🗓 This week (Mon Oct 5 – Sun Oct 11)
+🗓 This week (Tue Oct 6 – Mon Oct 12)
 
-• Wed Oct 7 — CS 61A: Lab 5 Recursive Data
+• Wed Oct 7 — CS 61A: Lab 5 Trees
   no link yet
 • Thu Oct 8 — CS 61A: Homework 4 Recursive Data
   https://cs61a.org/fa26/hw/hw04/
@@ -8,3 +8,5 @@
   https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject1%2Fproject1.ipynb
 • Fri Oct 9 — Data C8: Lab 5
   no link yet
+• Mon Oct 12 — CS 61A: Hog Strategy Contest (Optional)
+  https://cs61a.org/fa26/projects/hog_contest/

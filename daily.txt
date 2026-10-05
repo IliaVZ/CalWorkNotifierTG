@@ -1,6 +1,6 @@
-📅 Nothing due tonight (Sun Oct 4) 🎉
+📅 Nothing due tonight (Mon Oct 5) 🎉
 Next deadline: Wed Oct 7
 
 CS 61A
-• Lab 5 Recursive Data
+• Lab 5 Trees
   no link yet
