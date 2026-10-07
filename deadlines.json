@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-05",
+  "generated": "2026-10-07",
   "classes": {
     "CS 61A": [
       {
         "title": "Lab 5 Trees",
         "raw_due": "Wed 10/7",
         "due": "2026-10-07",
-        "url": null
+        "url": "https://cs61a.org/fa26/labs/lab05/"
       },
       {
         "title": "Homework 4 Recursive Data",
@@ -30,7 +30,7 @@
         "title": "Homework 5 Mutation",
         "raw_due": "Thu 10/15",
         "due": "2026-10-15",
-        "url": null
+        "url": "https://cs61a.org/fa26/hw/hw05/"
       },
       {
         "title": "Project 3 Ants Vs. SomeBees (checkpoint 1)",
@@ -146,7 +146,7 @@
         "title": "Lab 5",
         "raw_due": "10/9",
         "due": "2026-10-09",
-        "url": null
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab05%2Flab05.ipynb"
       },
       {
         "title": "Homework 5",

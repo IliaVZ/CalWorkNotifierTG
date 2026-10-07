@@ -1,6 +1,5 @@
-📅 Nothing due tonight (Tue Oct 6) 🎉
-Next deadline: Wed Oct 7
+📅 Due tonight (Wed Oct 7)
 
 CS 61A
 • Lab 5 Trees
-  no link yet
+  https://cs61a.org/fa26/labs/lab05/
