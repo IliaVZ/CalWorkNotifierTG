@@ -1,7 +1,5 @@
-🗓 This week (Thu Oct 8 – Wed Oct 14)
+🗓 This week (Fri Oct 9 – Thu Oct 15)
 
-• Thu Oct 8 — CS 61A: Homework 4 Recursive Data
-  https://cs61a.org/fa26/hw/hw04/
 • Fri Oct 9 — Data C8: Project 1 (entire project)
   https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject1%2Fproject1.ipynb
 • Fri Oct 9 — Data C8: Lab 5
@@ -12,3 +10,5 @@
   no link yet
 • Wed Oct 14 — Data C8: Homework 5
   no link yet
+• Thu Oct 15 — CS 61A: Homework 5 Mutation
+  https://cs61a.org/fa26/hw/hw05/

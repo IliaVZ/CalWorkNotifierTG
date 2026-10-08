@@ -1,5 +1,5 @@
-📅 Due tonight (Wed Oct 7)
+📅 Due tonight (Thu Oct 8)
 
 CS 61A
-• Lab 5 Trees
-  https://cs61a.org/fa26/labs/lab05/
+• Homework 4 Recursive Data
+  https://cs61a.org/fa26/hw/hw04/
