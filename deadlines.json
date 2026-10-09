@@ -1,19 +1,7 @@
 {
-  "generated": "2026-10-07",
+  "generated": "2026-10-09",
   "classes": {
     "CS 61A": [
-      {
-        "title": "Lab 5 Trees",
-        "raw_due": "Wed 10/7",
-        "due": "2026-10-07",
-        "url": "https://cs61a.org/fa26/labs/lab05/"
-      },
-      {
-        "title": "Homework 4 Recursive Data",
-        "raw_due": "Thu 10/8",
-        "due": "2026-10-08",
-        "url": "https://cs61a.org/fa26/hw/hw04/"
-      },
       {
         "title": "Hog Strategy Contest (Optional)",
         "raw_due": "Mon 10/12",
@@ -30,7 +18,7 @@
         "title": "Homework 5 Mutation",
         "raw_due": "Thu 10/15",
         "due": "2026-10-15",
-        "url": "https://cs61a.org/fa26/hw/hw05/"
+        "url": null
       },
       {
         "title": "Project 3 Ants Vs. SomeBees (checkpoint 1)",
@@ -149,10 +137,10 @@
         "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab05%2Flab05.ipynb"
       },
       {
-        "title": "Homework 5",
+        "title": "Homework 5 Chance, Empirical Probability Distribution",
         "raw_due": "10/14",
         "due": "2026-10-14",
-        "url": null
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw05%2Fhw05.ipynb"
       },
       {
         "title": "Lab 6",
@@ -161,7 +149,7 @@
         "url": null
       },
       {
-        "title": "Homework 6",
+        "title": "Homework 6 Assessing Models and Testing Hypotheses",
         "raw_due": "10/21",
         "due": "2026-10-21",
         "url": null
@@ -173,7 +161,7 @@
         "url": null
       },
       {
-        "title": "Homework 7",
+        "title": "Homework 7 Confidence Intervals",
         "raw_due": "10/28",
         "due": "2026-10-28",
         "url": null
@@ -185,7 +173,7 @@
         "url": null
       },
       {
-        "title": "Homework 8",
+        "title": "Homework 8 Sample Sizes and Confidence Intervals",
         "raw_due": "11/10",
         "due": "2026-11-10",
         "url": null
@@ -197,7 +185,7 @@
         "url": null
       },
       {
-        "title": "Homework 9",
+        "title": "Homework 9 Linear Regression",
         "raw_due": "11/18",
         "due": "2026-11-18",
         "url": null
@@ -215,7 +203,7 @@
         "url": null
       },
       {
-        "title": "Homework 10",
+        "title": "Homework 10 Regression Inference",
         "raw_due": "11/25",
         "due": "2026-11-25",
         "url": null
@@ -239,13 +227,13 @@
         "url": null
       },
       {
-        "title": "Homework 11",
+        "title": "Homework 11 Classification",
         "raw_due": "12/6",
         "due": "2026-12-06",
         "url": null
       },
       {
-        "title": "Homework 12",
+        "title": "Homework 12 Extra Credit",
         "raw_due": "12/9",
         "due": "2026-12-09",
         "url": null

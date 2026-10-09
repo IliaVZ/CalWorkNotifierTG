@@ -1,14 +1,14 @@
-🗓 This week (Fri Oct 9 – Thu Oct 15)
+🗓 This week (Sat Oct 10 – Fri Oct 16)
 
-• Fri Oct 9 — Data C8: Project 1 (entire project)
-  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject1%2Fproject1.ipynb
-• Fri Oct 9 — Data C8: Lab 5
-  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab05%2Flab05.ipynb
 • Mon Oct 12 — CS 61A: Hog Strategy Contest (Optional)
   https://cs61a.org/fa26/projects/hog_contest/
 • Wed Oct 14 — CS 61A: Lab 6 Mutation
   no link yet
-• Wed Oct 14 — Data C8: Homework 5
-  no link yet
+• Wed Oct 14 — Data C8: Homework 5 Chance, Empirical Probability Distribution
+  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw05%2Fhw05.ipynb
 • Thu Oct 15 — CS 61A: Homework 5 Mutation
-  https://cs61a.org/fa26/hw/hw05/
+  no link yet
+• Fri Oct 16 — CS 61A: Project 3 Ants Vs. SomeBees (checkpoint 1)
+  no link yet
+• Fri Oct 16 — Data C8: Lab 6
+  no link yet
