@@ -1,7 +1,6 @@
-📅 Due tonight (Fri Oct 9)
+📅 Nothing due tonight (Sat Oct 10) 🎉
+Next deadline: Mon Oct 12
 
-Data C8
-• Project 1 (entire project)
-  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject1%2Fproject1.ipynb
-• Lab 5
-  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab05%2Flab05.ipynb
+CS 61A
+• Hog Strategy Contest (Optional)
+  https://cs61a.org/fa26/projects/hog_contest/
