@@ -1,4 +1,4 @@
-🗓 This week (Sun Oct 11 – Sat Oct 17)
+🗓 This week (Mon Oct 12 – Sun Oct 18)
 
 • Mon Oct 12 — CS 61A: Hog Strategy Contest (Optional)
   https://cs61a.org/fa26/projects/hog_contest/
@@ -6,8 +6,8 @@
   no link yet
 • Wed Oct 14 — Data C8: Homework 5 Chance, Empirical Probability Distribution
   https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw05%2Fhw05.ipynb
-• Thu Oct 15 — CS 61A: Homework 5 Mutation
-  no link yet
+• Thu Oct 15 — CS 61A: Homework 5 List Mutation
+  https://cs61a.org/fa26/hw/hw05/
 • Fri Oct 16 — CS 61A: Project 3 Ants Vs. SomeBees (checkpoint 1)
   no link yet
 • Fri Oct 16 — Data C8: Lab 6
