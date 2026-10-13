@@ -1,4 +1,4 @@
-🗓 This week (Tue Oct 13 – Mon Oct 19)
+🗓 This week (Wed Oct 14 – Tue Oct 20)
 
 • Wed Oct 14 — CS 61A: Lab 6 Mutation
   https://cs61a.org/fa26/labs/lab06/

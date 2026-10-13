@@ -1,5 +1,10 @@
-📅 Due tonight (Mon Oct 12)
+📅 Nothing due tonight (Tue Oct 13) 🎉
+Next deadline: Wed Oct 14
 
 CS 61A
-• Hog Strategy Contest (Optional)
-  https://cs61a.org/fa26/projects/hog_contest/
+• Lab 6 Mutation
+  https://cs61a.org/fa26/labs/lab06/
+
+Data C8
+• Homework 5 Chance, Empirical Probability Distribution
+  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw05%2Fhw05.ipynb
