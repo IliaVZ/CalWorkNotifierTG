@@ -1,12 +1,14 @@
-🗓 This week (Wed Oct 14 – Tue Oct 20)
+🗓 This week (Thu Oct 15 – Wed Oct 21)
 
-• Wed Oct 14 — CS 61A: Lab 6 Mutation
-  https://cs61a.org/fa26/labs/lab06/
-• Wed Oct 14 — Data C8: Homework 5 Chance, Empirical Probability Distribution
-  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw05%2Fhw05.ipynb
 • Thu Oct 15 — CS 61A: Homework 5 List Mutation
   https://cs61a.org/fa26/hw/hw05/
 • Fri Oct 16 — CS 61A: Project 3 Ants Vs. SomeBees (checkpoint 1)
-  no link yet
+  https://cs61a.org/fa26/projects/ants/
 • Fri Oct 16 — Data C8: Lab 6
+  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab06%2Flab06.ipynb
+• Wed Oct 21 — CS 61A: Project 3 Ants Vs. SomeBees (checkpoint 2)
+  https://cs61a.org/fa26/projects/ants/
+• Wed Oct 21 — CS 61A: Lab 7 Lazy Evaluation
+  no link yet
+• Wed Oct 21 — Data C8: Homework 6 Assessing Models and Testing Hypotheses
   no link yet

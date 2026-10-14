@@ -1,5 +1,4 @@
-📅 Nothing due tonight (Tue Oct 13) 🎉
-Next deadline: Wed Oct 14
+📅 Due tonight (Wed Oct 14)
 
 CS 61A
 • Lab 6 Mutation

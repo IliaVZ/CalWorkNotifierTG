@@ -1,13 +1,7 @@
 {
-  "generated": "2026-10-12",
+  "generated": "2026-10-14",
   "classes": {
     "CS 61A": [
-      {
-        "title": "Hog Strategy Contest (Optional)",
-        "raw_due": "Mon 10/12",
-        "due": "2026-10-12",
-        "url": "https://cs61a.org/fa26/projects/hog_contest/"
-      },
       {
         "title": "Lab 6 Mutation",
         "raw_due": "Wed 10/14",
@@ -24,13 +18,13 @@
         "title": "Project 3 Ants Vs. SomeBees (checkpoint 1)",
         "raw_due": "Fri 10/16",
         "due": "2026-10-16",
-        "url": null
+        "url": "https://cs61a.org/fa26/projects/ants/"
       },
       {
         "title": "Project 3 Ants Vs. SomeBees (checkpoint 2)",
         "raw_due": "Wed 10/21",
         "due": "2026-10-21",
-        "url": null
+        "url": "https://cs61a.org/fa26/projects/ants/"
       },
       {
         "title": "Lab 7 Lazy Evaluation",
@@ -48,7 +42,7 @@
         "title": "Project 3 Ants Vs. SomeBees",
         "raw_due": "Fri 10/23",
         "due": "2026-10-23",
-        "url": null
+        "url": "https://cs61a.org/fa26/projects/ants/"
       },
       {
         "title": "Lab 8 Gleam Types",
@@ -134,7 +128,7 @@
         "title": "Lab 6",
         "raw_due": "10/16",
         "due": "2026-10-16",
-        "url": null
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab06%2Flab06.ipynb"
       },
       {
         "title": "Homework 6 Assessing Models and Testing Hypotheses",
