@@ -1,7 +1,5 @@
-🗓 This week (Thu Oct 15 – Wed Oct 21)
+🗓 This week (Fri Oct 16 – Thu Oct 22)
 
-• Thu Oct 15 — CS 61A: Homework 5 List Mutation
-  https://cs61a.org/fa26/hw/hw05/
 • Fri Oct 16 — CS 61A: Project 3 Ants Vs. SomeBees (checkpoint 1)
   https://cs61a.org/fa26/projects/ants/
 • Fri Oct 16 — Data C8: Lab 6
@@ -11,4 +9,6 @@
 • Wed Oct 21 — CS 61A: Lab 7 Lazy Evaluation
   no link yet
 • Wed Oct 21 — Data C8: Homework 6 Assessing Models and Testing Hypotheses
+  no link yet
+• Thu Oct 22 — CS 61A: Homework 6 Classes
   no link yet

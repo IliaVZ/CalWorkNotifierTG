@@ -1,9 +1,5 @@
-📅 Due tonight (Wed Oct 14)
+📅 Due tonight (Thu Oct 15)
 
 CS 61A
-• Lab 6 Mutation
-  https://cs61a.org/fa26/labs/lab06/
-
-Data C8
-• Homework 5 Chance, Empirical Probability Distribution
-  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw05%2Fhw05.ipynb
+• Homework 5 List Mutation
+  https://cs61a.org/fa26/hw/hw05/
