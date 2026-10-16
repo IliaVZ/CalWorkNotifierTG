@@ -1,5 +1,9 @@
-📅 Due tonight (Thu Oct 15)
+📅 Due tonight (Fri Oct 16)
 
 CS 61A
-• Homework 5 List Mutation
-  https://cs61a.org/fa26/hw/hw05/
+• Project 3 Ants Vs. SomeBees (checkpoint 1)
+  https://cs61a.org/fa26/projects/ants/
+
+Data C8
+• Lab 6
+  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab06%2Flab06.ipynb
