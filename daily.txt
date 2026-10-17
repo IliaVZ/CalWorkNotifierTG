@@ -1,9 +1,12 @@
-📅 Due tonight (Fri Oct 16)
+📅 Nothing due tonight (Sat Oct 17) 🎉
+Next deadline: Wed Oct 21
 
 CS 61A
-• Project 3 Ants Vs. SomeBees (checkpoint 1)
+• Project 3 Ants Vs. SomeBees (checkpoint 2)
   https://cs61a.org/fa26/projects/ants/
+• Lab 7 Lazy Evaluation
+  no link yet
 
 Data C8
-• Lab 6
-  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab06%2Flab06.ipynb
+• Homework 6 Assessing Models and Testing Hypotheses
+  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw06%2Fhw06.ipynb
