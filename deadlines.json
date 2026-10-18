@@ -1,13 +1,7 @@
 {
-  "generated": "2026-10-16",
+  "generated": "2026-10-18",
   "classes": {
     "CS 61A": [
-      {
-        "title": "Project 3 Ants Vs. SomeBees (checkpoint 1)",
-        "raw_due": "Fri 10/16",
-        "due": "2026-10-16",
-        "url": "https://cs61a.org/fa26/projects/ants/"
-      },
       {
         "title": "Project 3 Ants Vs. SomeBees (checkpoint 2)",
         "raw_due": "Wed 10/21",
@@ -106,12 +100,6 @@
       }
     ],
     "Data C8": [
-      {
-        "title": "Lab 6",
-        "raw_due": "10/16",
-        "due": "2026-10-16",
-        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab06%2Flab06.ipynb"
-      },
       {
         "title": "Homework 6 Assessing Models and Testing Hypotheses",
         "raw_due": "10/21",
