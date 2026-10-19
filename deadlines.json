@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18",
+  "generated": "2026-10-19",
   "classes": {
     "CS 61A": [
       {
@@ -9,10 +9,10 @@
         "url": "https://cs61a.org/fa26/projects/ants/"
       },
       {
-        "title": "Lab 7 Lazy Evaluation",
+        "title": "Lab 7 Iterators and Generators",
         "raw_due": "Wed 10/21",
         "due": "2026-10-21",
-        "url": null
+        "url": "https://cs61a.org/fa26/labs/lab07/"
       },
       {
         "title": "Homework 6 Classes",

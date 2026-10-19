@@ -1,11 +1,11 @@
-📅 Nothing due tonight (Sun Oct 18) 🎉
+📅 Nothing due tonight (Mon Oct 19) 🎉
 Next deadline: Wed Oct 21
 
 CS 61A
 • Project 3 Ants Vs. SomeBees (checkpoint 2)
   https://cs61a.org/fa26/projects/ants/
-• Lab 7 Lazy Evaluation
-  no link yet
+• Lab 7 Iterators and Generators
+  https://cs61a.org/fa26/labs/lab07/
 
 Data C8
 • Homework 6 Assessing Models and Testing Hypotheses
