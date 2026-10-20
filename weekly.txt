@@ -1,4 +1,4 @@
-🗓 This week (Tue Oct 20 – Mon Oct 26)
+🗓 This week (Wed Oct 21 – Tue Oct 27)
 
 • Wed Oct 21 — CS 61A: Project 3 Ants Vs. SomeBees (checkpoint 2)
   https://cs61a.org/fa26/projects/ants/
