@@ -1,14 +1,10 @@
-🗓 This week (Wed Oct 21 – Tue Oct 27)
+🗓 This week (Thu Oct 22 – Wed Oct 28)
 
-• Wed Oct 21 — CS 61A: Project 3 Ants Vs. SomeBees (checkpoint 2)
-  https://cs61a.org/fa26/projects/ants/
-• Wed Oct 21 — CS 61A: Lab 7 Iterators and Generators
-  https://cs61a.org/fa26/labs/lab07/
-• Wed Oct 21 — Data C8: Homework 6 Assessing Models and Testing Hypotheses
-  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw06%2Fhw06.ipynb
 • Thu Oct 22 — CS 61A: Homework 6 Classes
   https://cs61a.org/fa26/hw/hw06/
 • Fri Oct 23 — CS 61A: Project 3 Ants Vs. SomeBees
   https://cs61a.org/fa26/projects/ants/
 • Fri Oct 23 — Data C8: Lab 7
+  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab07%2Flab07.ipynb
+• Wed Oct 28 — Data C8: Homework 7 Confidence Intervals
   no link yet

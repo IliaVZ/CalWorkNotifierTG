@@ -1,5 +1,4 @@
-📅 Nothing due tonight (Tue Oct 20) 🎉
-Next deadline: Wed Oct 21
+📅 Due tonight (Wed Oct 21)
 
 CS 61A
 • Project 3 Ants Vs. SomeBees (checkpoint 2)
