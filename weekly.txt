@@ -1,7 +1,5 @@
-🗓 This week (Thu Oct 22 – Wed Oct 28)
+🗓 This week (Fri Oct 23 – Thu Oct 29)
 
-• Thu Oct 22 — CS 61A: Homework 6 Classes
-  https://cs61a.org/fa26/hw/hw06/
 • Fri Oct 23 — CS 61A: Project 3 Ants Vs. SomeBees
   https://cs61a.org/fa26/projects/ants/
 • Fri Oct 23 — Data C8: Lab 7
