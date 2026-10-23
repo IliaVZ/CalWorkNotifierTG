@@ -1,25 +1,7 @@
 {
-  "generated": "2026-10-21",
+  "generated": "2026-10-23",
   "classes": {
     "CS 61A": [
-      {
-        "title": "Project 3 Ants Vs. SomeBees (checkpoint 2)",
-        "raw_due": "Wed 10/21",
-        "due": "2026-10-21",
-        "url": "https://cs61a.org/fa26/projects/ants/"
-      },
-      {
-        "title": "Lab 7 Iterators and Generators",
-        "raw_due": "Wed 10/21",
-        "due": "2026-10-21",
-        "url": "https://cs61a.org/fa26/labs/lab07/"
-      },
-      {
-        "title": "Homework 6 Classes",
-        "raw_due": "Thu 10/22",
-        "due": "2026-10-22",
-        "url": "https://cs61a.org/fa26/hw/hw06/"
-      },
       {
         "title": "Project 3 Ants Vs. SomeBees",
         "raw_due": "Fri 10/23",
@@ -101,12 +83,6 @@
     ],
     "Data C8": [
       {
-        "title": "Homework 6 Assessing Models and Testing Hypotheses",
-        "raw_due": "10/21",
-        "due": "2026-10-21",
-        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw06%2Fhw06.ipynb"
-      },
-      {
         "title": "Lab 7",
         "raw_due": "10/23",
         "due": "2026-10-23",
@@ -116,7 +92,7 @@
         "title": "Homework 7 Confidence Intervals",
         "raw_due": "10/28",
         "due": "2026-10-28",
-        "url": null
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw07%2Fhw07.ipynb"
       },
       {
         "title": "Lab 8",
