@@ -1,9 +1,6 @@
-📅 Due tonight (Fri Oct 23)
-
-CS 61A
-• Project 3 Ants Vs. SomeBees
-  https://cs61a.org/fa26/projects/ants/
+📅 Nothing due tonight (Sat Oct 24) 🎉
+Next deadline: Wed Oct 28
 
 Data C8
-• Lab 7
-  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab07%2Flab07.ipynb
+• Homework 7 Confidence Intervals
+  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw07%2Fhw07.ipynb
