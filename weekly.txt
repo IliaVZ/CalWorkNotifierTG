@@ -1,4 +1,4 @@
-🗓 This week (Sun Oct 25 – Sat Oct 31)
+🗓 This week (Mon Oct 26 – Sun Nov 1)
 
 • Wed Oct 28 — Data C8: Homework 7 Confidence Intervals
   https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw07%2Fhw07.ipynb
