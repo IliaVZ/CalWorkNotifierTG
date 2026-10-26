@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25",
+  "generated": "2026-10-26",
   "classes": {
     "CS 61A": [
       {
@@ -12,7 +12,7 @@
         "title": "Homework 7 Gleam",
         "raw_due": "Thu 11/5",
         "due": "2026-11-05",
-        "url": null
+        "url": "https://cs61a.org/fa26/hw/hw07/"
       },
       {
         "title": "Lab 9 Coding Agents",
@@ -92,7 +92,7 @@
         "title": "Homework 8 Sample Sizes and Confidence Intervals",
         "raw_due": "11/10",
         "due": "2026-11-10",
-        "url": null
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw08%2Fhw08.ipynb"
       },
       {
         "title": "Project 2 (checkpoint)",
@@ -101,7 +101,7 @@
         "url": null
       },
       {
-        "title": "Homework 9 Linear Regression",
+        "title": "Homework 8 Linear Regression",
         "raw_due": "11/18",
         "due": "2026-11-18",
         "url": null
@@ -119,7 +119,7 @@
         "url": null
       },
       {
-        "title": "Homework 10 Regression Inference",
+        "title": "Homework 9 Regression Inference",
         "raw_due": "11/25",
         "due": "2026-11-25",
         "url": null
