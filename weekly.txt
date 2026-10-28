@@ -1,6 +1,6 @@
-🗓 This week (Wed Oct 28 – Tue Nov 3)
+🗓 This week (Thu Oct 29 – Wed Nov 4)
 
-• Wed Oct 28 — Data C8: Homework 7 Confidence Intervals
-  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw07%2Fhw07.ipynb
 • Fri Oct 30 — Data C8: Lab 8
+  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab08%2Flab08.ipynb
+• Wed Nov 4 — CS 61A: Lab 8 Gleam Types
   no link yet
