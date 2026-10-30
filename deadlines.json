@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-28",
+  "generated": "2026-10-30",
   "classes": {
     "CS 61A": [
       {
-        "title": "Lab 8 Gleam Types",
+        "title": "Lab 8 Gleam Lists",
         "raw_due": "Wed 11/4",
         "due": "2026-11-04",
-        "url": null
+        "url": "https://cs61a.org/fa26/labs/lab08/"
       },
       {
         "title": "Homework 7 Gleam",
@@ -76,12 +76,6 @@
       }
     ],
     "Data C8": [
-      {
-        "title": "Homework 7 Confidence Intervals",
-        "raw_due": "10/28",
-        "due": "2026-10-28",
-        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw07%2Fhw07.ipynb"
-      },
       {
         "title": "Lab 8",
         "raw_due": "10/30",
