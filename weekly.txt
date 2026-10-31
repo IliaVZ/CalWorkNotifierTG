@@ -1,4 +1,4 @@
-🗓 This week (Sat Oct 31 – Fri Nov 6)
+🗓 This week (Sun Nov 1 – Sat Nov 7)
 
 • Wed Nov 4 — CS 61A: Lab 8 Gleam Lists
   https://cs61a.org/fa26/labs/lab08/

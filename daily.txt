@@ -1,5 +1,6 @@
-📅 Due tonight (Fri Oct 30)
+📅 Nothing due tonight (Sat Oct 31) 🎉
+Next deadline: Wed Nov 4
 
-Data C8
-• Lab 8
-  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab08%2Flab08.ipynb
+CS 61A
+• Lab 8 Gleam Lists
+  https://cs61a.org/fa26/labs/lab08/
