@@ -1,5 +1,4 @@
-📅 Nothing due tonight (Tue Nov 3) 🎉
-Next deadline: Wed Nov 4
+📅 Due tonight (Wed Nov 4)
 
 CS 61A
 • Lab 8 Gleam Lists

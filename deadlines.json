@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02",
+  "generated": "2026-11-04",
   "classes": {
     "CS 61A": [
       {
@@ -27,21 +27,21 @@
         "url": null
       },
       {
-        "title": "Project 4 Animator (checkpoint 1)",
-        "raw_due": "Fri 11/13",
-        "due": "2026-11-13",
-        "url": null
-      },
-      {
-        "title": "Project 4 Animator (TypeScript) (checkpoint)",
-        "raw_due": "Fri 11/13",
-        "due": "2026-11-13",
-        "url": null
-      },
-      {
         "title": "Lab 10 SQL",
         "raw_due": "Wed 11/18",
         "due": "2026-11-18",
+        "url": null
+      },
+      {
+        "title": "Project 4 Animator (checkpoint 1)",
+        "raw_due": "Thu 11/19",
+        "due": "2026-11-19",
+        "url": null
+      },
+      {
+        "title": "Project 4 Animator (TypeScript) (checkpoint 1)",
+        "raw_due": "Thu 11/19",
+        "due": "2026-11-19",
         "url": null
       },
       {
@@ -51,9 +51,15 @@
         "url": null
       },
       {
+        "title": "Project 4 Animator (TypeScript) (checkpoint 2)",
+        "raw_due": "Tue 11/24",
+        "due": "2026-11-24",
+        "url": null
+      },
+      {
         "title": "Homework 9 SQL",
-        "raw_due": "Wed 11/25",
-        "due": "2026-11-25",
+        "raw_due": "Sun 11/29",
+        "due": "2026-11-29",
         "url": null
       },
       {
