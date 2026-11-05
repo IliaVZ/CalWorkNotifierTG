@@ -1,5 +1,5 @@
-📅 Due tonight (Wed Nov 4)
+📅 Due tonight (Thu Nov 5)
 
 CS 61A
-• Lab 8 Gleam Lists
-  https://cs61a.org/fa26/labs/lab08/
+• Homework 7 Gleam
+  https://cs61a.org/fa26/hw/hw07/
