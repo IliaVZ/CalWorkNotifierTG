@@ -1,5 +1,6 @@
-📅 Due tonight (Thu Nov 5)
+📅 Nothing due tonight (Fri Nov 6) 🎉
+Next deadline: Tue Nov 10
 
-CS 61A
-• Homework 7 Gleam
-  https://cs61a.org/fa26/hw/hw07/
+Data C8
+• Homework 8 Sample Sizes and Confidence Intervals
+  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw08%2Fhw08.ipynb

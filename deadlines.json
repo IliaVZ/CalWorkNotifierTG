@@ -1,19 +1,7 @@
 {
-  "generated": "2026-11-04",
+  "generated": "2026-11-06",
   "classes": {
     "CS 61A": [
-      {
-        "title": "Lab 8 Gleam Lists",
-        "raw_due": "Wed 11/4",
-        "due": "2026-11-04",
-        "url": "https://cs61a.org/fa26/labs/lab08/"
-      },
-      {
-        "title": "Homework 7 Gleam",
-        "raw_due": "Thu 11/5",
-        "due": "2026-11-05",
-        "url": "https://cs61a.org/fa26/hw/hw07/"
-      },
       {
         "title": "Lab 9 Coding Agents",
         "raw_due": "Wed 11/11",

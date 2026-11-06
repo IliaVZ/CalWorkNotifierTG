@@ -1,8 +1,10 @@
-🗓 This week (Fri Nov 6 – Thu Nov 12)
+🗓 This week (Sat Nov 7 – Fri Nov 13)
 
 • Tue Nov 10 — Data C8: Homework 8 Sample Sizes and Confidence Intervals
   https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw08%2Fhw08.ipynb
 • Wed Nov 11 — CS 61A: Lab 9 Coding Agents
   no link yet
 • Thu Nov 12 — CS 61A: Homework 8 Gleam Data
+  no link yet
+• Fri Nov 13 — Data C8: Project 2 (checkpoint)
   no link yet
