@@ -1,18 +1,18 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-08",
   "classes": {
     "CS 61A": [
       {
-        "title": "Lab 9 Coding Agents",
+        "title": "Lab 9 Web Applications",
         "raw_due": "Wed 11/11",
         "due": "2026-11-11",
-        "url": null
+        "url": "https://cs61a.org/fa26/labs/lab09/"
       },
       {
-        "title": "Homework 8 Gleam Data",
+        "title": "Homework 8 Interpreters",
         "raw_due": "Thu 11/12",
         "due": "2026-11-12",
-        "url": null
+        "url": "https://cs61a.org/fa26/hw/hw08/"
       },
       {
         "title": "Lab 10 SQL",
@@ -24,7 +24,7 @@
         "title": "Project 4 Animator (checkpoint 1)",
         "raw_due": "Thu 11/19",
         "due": "2026-11-19",
-        "url": null
+        "url": "https://cs61a.org/fa26/projects/animator/"
       },
       {
         "title": "Project 4 Animator (TypeScript) (checkpoint 1)",
@@ -36,7 +36,7 @@
         "title": "Project 4 Animator (checkpoint 2)",
         "raw_due": "Tue 11/24",
         "due": "2026-11-24",
-        "url": null
+        "url": "https://cs61a.org/fa26/projects/animator/"
       },
       {
         "title": "Project 4 Animator (TypeScript) (checkpoint 2)",
@@ -54,7 +54,7 @@
         "title": "Project 4 Animator",
         "raw_due": "Wed 12/2",
         "due": "2026-12-02",
-        "url": null
+        "url": "https://cs61a.org/fa26/projects/animator/"
       },
       {
         "title": "Project 4 Animator (TypeScript)",
@@ -86,7 +86,7 @@
         "title": "Project 2 (checkpoint)",
         "raw_due": "11/13",
         "due": "2026-11-13",
-        "url": null
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject2%2Fproject2.ipynb"
       },
       {
         "title": "Homework 9 Linear Regression",
@@ -98,7 +98,7 @@
         "title": "Project 2 (entire project)",
         "raw_due": "11/20",
         "due": "2026-11-20",
-        "url": null
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject2%2Fproject2.ipynb"
       },
       {
         "title": "Lab 9",
