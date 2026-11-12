@@ -1,5 +1,5 @@
-📅 Due tonight (Wed Nov 11)
+📅 Due tonight (Thu Nov 12)
 
 CS 61A
-• Lab 9 Web Applications
-  https://cs61a.org/fa26/labs/lab09/
+• Homework 8 Interpreters
+  https://cs61a.org/fa26/hw/hw08/

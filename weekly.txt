@@ -1,10 +1,12 @@
-🗓 This week (Thu Nov 12 – Wed Nov 18)
+🗓 This week (Fri Nov 13 – Thu Nov 19)
 
-• Thu Nov 12 — CS 61A: Homework 8 Interpreters
-  https://cs61a.org/fa26/hw/hw08/
 • Fri Nov 13 — Data C8: Project 2 (checkpoint)
   https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject2%2Fproject2.ipynb
 • Wed Nov 18 — CS 61A: Lab 10 SQL
   no link yet
 • Wed Nov 18 — Data C8: Homework 9 Linear Regression
+  no link yet
+• Thu Nov 19 — CS 61A: Project 4 Animator (checkpoint 1)
+  https://cs61a.org/fa26/projects/animator/
+• Thu Nov 19 — CS 61A: Project 4 Animator (TypeScript) (checkpoint 1)
   no link yet
