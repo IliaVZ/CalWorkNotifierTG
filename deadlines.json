@@ -1,19 +1,7 @@
 {
-  "generated": "2026-11-11",
+  "generated": "2026-11-13",
   "classes": {
     "CS 61A": [
-      {
-        "title": "Lab 9 Web Applications",
-        "raw_due": "Wed 11/11",
-        "due": "2026-11-11",
-        "url": "https://cs61a.org/fa26/labs/lab09/"
-      },
-      {
-        "title": "Homework 8 Interpreters",
-        "raw_due": "Thu 11/12",
-        "due": "2026-11-12",
-        "url": "https://cs61a.org/fa26/hw/hw08/"
-      },
       {
         "title": "Lab 10 SQL",
         "raw_due": "Wed 11/18",
@@ -30,7 +18,7 @@
         "title": "Project 4 Animator (TypeScript) (checkpoint 1)",
         "raw_due": "Thu 11/19",
         "due": "2026-11-19",
-        "url": null
+        "url": "https://cs61a.org/fa26/projects/animator-ts/"
       },
       {
         "title": "Project 4 Animator (checkpoint 2)",
@@ -42,7 +30,7 @@
         "title": "Project 4 Animator (TypeScript) (checkpoint 2)",
         "raw_due": "Tue 11/24",
         "due": "2026-11-24",
-        "url": null
+        "url": "https://cs61a.org/fa26/projects/animator-ts/"
       },
       {
         "title": "Homework 9 SQL",
@@ -60,7 +48,7 @@
         "title": "Project 4 Animator (TypeScript)",
         "raw_due": "Wed 12/2",
         "due": "2026-12-02",
-        "url": null
+        "url": "https://cs61a.org/fa26/projects/animator-ts/"
       },
       {
         "title": "Lab 11 Testing",
@@ -86,7 +74,7 @@
         "title": "Homework 9 Linear Regression",
         "raw_due": "11/18",
         "due": "2026-11-18",
-        "url": null
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw09%2Fhw09.ipynb"
       },
       {
         "title": "Project 2 (entire project)",

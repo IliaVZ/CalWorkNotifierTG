@@ -1,5 +1,5 @@
-📅 Due tonight (Thu Nov 12)
+📅 Due tonight (Fri Nov 13)
 
-CS 61A
-• Homework 8 Interpreters
-  https://cs61a.org/fa26/hw/hw08/
+Data C8
+• Project 2 (checkpoint)
+  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject2%2Fproject2.ipynb
