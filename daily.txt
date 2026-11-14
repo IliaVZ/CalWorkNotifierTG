@@ -1,5 +1,10 @@
-📅 Due tonight (Fri Nov 13)
+📅 Nothing due tonight (Sat Nov 14) 🎉
+Next deadline: Wed Nov 18
+
+CS 61A
+• Lab 10 SQL
+  no link yet
 
 Data C8
-• Project 2 (checkpoint)
-  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject2%2Fproject2.ipynb
+• Homework 9 Linear Regression
+  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw09%2Fhw09.ipynb
