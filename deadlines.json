@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13",
+  "generated": "2026-11-15",
   "classes": {
     "CS 61A": [
       {
@@ -64,12 +64,6 @@
       }
     ],
     "Data C8": [
-      {
-        "title": "Project 2 (checkpoint)",
-        "raw_due": "11/13",
-        "due": "2026-11-13",
-        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject2%2Fproject2.ipynb"
-      },
       {
         "title": "Homework 9 Linear Regression",
         "raw_due": "11/18",
