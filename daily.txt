@@ -1,9 +1,9 @@
-📅 Nothing due tonight (Sun Nov 15) 🎉
+📅 Nothing due tonight (Mon Nov 16) 🎉
 Next deadline: Wed Nov 18
 
 CS 61A
 • Lab 10 SQL
-  no link yet
+  https://cs61a.org/fa26/labs/lab10/
 
 Data C8
 • Homework 9 Linear Regression

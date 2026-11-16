@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-15",
+  "generated": "2026-11-16",
   "classes": {
     "CS 61A": [
       {
         "title": "Lab 10 SQL",
         "raw_due": "Wed 11/18",
         "due": "2026-11-18",
-        "url": null
+        "url": "https://cs61a.org/fa26/labs/lab10/"
       },
       {
         "title": "Project 4 Animator (checkpoint 1)",
