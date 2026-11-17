@@ -1,4 +1,4 @@
-🗓 This week (Tue Nov 17 – Mon Nov 23)
+🗓 This week (Wed Nov 18 – Tue Nov 24)
 
 • Wed Nov 18 — CS 61A: Lab 10 SQL
   https://cs61a.org/fa26/labs/lab10/
@@ -12,3 +12,7 @@
   https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject2%2Fproject2.ipynb
 • Fri Nov 20 — Data C8: Lab 9
   no link yet
+• Tue Nov 24 — CS 61A: Project 4 Animator (checkpoint 2)
+  https://cs61a.org/fa26/projects/animator/
+• Tue Nov 24 — CS 61A: Project 4 Animator (TypeScript) (checkpoint 2)
+  https://cs61a.org/fa26/projects/animator-ts/
