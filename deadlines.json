@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16",
+  "generated": "2026-11-18",
   "classes": {
     "CS 61A": [
       {
@@ -80,7 +80,7 @@
         "title": "Lab 9",
         "raw_due": "11/20",
         "due": "2026-11-20",
-        "url": null
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab09%2Flab09.ipynb"
       },
       {
         "title": "Homework 10 Regression Inference",
