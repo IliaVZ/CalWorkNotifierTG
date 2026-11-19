@@ -1,9 +1,5 @@
-🗓 This week (Thu Nov 19 – Wed Nov 25)
+🗓 This week (Fri Nov 20 – Thu Nov 26)
 
-• Thu Nov 19 — CS 61A: Project 4 Animator (checkpoint 1)
-  https://cs61a.org/fa26/projects/animator/
-• Thu Nov 19 — CS 61A: Project 4 Animator (TypeScript) (checkpoint 1)
-  https://cs61a.org/fa26/projects/animator-ts/
 • Fri Nov 20 — Data C8: Project 2 (entire project)
   https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject2%2Fproject2.ipynb
 • Fri Nov 20 — Data C8: Lab 9
