@@ -1,4 +1,4 @@
-🗓 This week (Sat Nov 21 – Fri Nov 27)
+🗓 This week (Sun Nov 22 – Sat Nov 28)
 
 • Tue Nov 24 — CS 61A: Project 4 Animator (checkpoint 2)
   https://cs61a.org/fa26/projects/animator/

@@ -1,7 +1,8 @@
-📅 Due tonight (Fri Nov 20)
+📅 Nothing due tonight (Sat Nov 21) 🎉
+Next deadline: Tue Nov 24
 
-Data C8
-• Project 2 (entire project)
-  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject2%2Fproject2.ipynb
-• Lab 9
-  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab09%2Flab09.ipynb
+CS 61A
+• Project 4 Animator (checkpoint 2)
+  https://cs61a.org/fa26/projects/animator/
+• Project 4 Animator (TypeScript) (checkpoint 2)
+  https://cs61a.org/fa26/projects/animator-ts/
