@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20",
+  "generated": "2026-11-22",
   "classes": {
     "CS 61A": [
       {
@@ -47,18 +47,6 @@
     ],
     "Data C8": [
       {
-        "title": "Project 2 (entire project)",
-        "raw_due": "11/20",
-        "due": "2026-11-20",
-        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject2%2Fproject2.ipynb"
-      },
-      {
-        "title": "Lab 9",
-        "raw_due": "11/20",
-        "due": "2026-11-20",
-        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab09%2Flab09.ipynb"
-      },
-      {
         "title": "Homework 10 Regression Inference",
         "raw_due": "11/25",
         "due": "2026-11-25",
@@ -68,13 +56,13 @@
         "title": "Project 3 (checkpoint)",
         "raw_due": "11/30",
         "due": "2026-11-30",
-        "url": null
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject3%2Fproject3.ipynb"
       },
       {
         "title": "Project 3 (entire project)",
         "raw_due": "12/4",
         "due": "2026-12-04",
-        "url": null
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject3%2Fproject3.ipynb"
       },
       {
         "title": "Lab 10",
