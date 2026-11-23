@@ -1,34 +1,25 @@
-name: Send Telegram message
+name: Send weekly Telegram message
 
 on:
   schedule:
+    # Daily is handled by update.yml. This workflow only sends the weekly summary.
     # GitHub cron runs on UTC, and Pacific time shifts by an hour with daylight
-    # saving. So each message has two schedules, and the "Pick message" step
-    # only lets through the one that matches the current Pacific offset.
-    - cron: "0 12 * * *"  # daily,  5am Pacific in summer (PDT, -0700)
-    - cron: "0 13 * * *"  # daily,  5am Pacific in winter (PST, -0800)
-    - cron: "0 4 * * 2"   # weekly, Mon 9pm Pacific in summer (= Tue 04:00 UTC)
-    - cron: "0 5 * * 2"   # weekly, Mon 9pm Pacific in winter (= Tue 05:00 UTC)
+    # saving. So two schedules, and the "Pick schedule" step lets through the right one.
+    - cron: "0 4 * * 2"   # Mon 9pm PDT (= Tue 04:00 UTC, offset -0700)
+    - cron: "0 5 * * 2"   # Mon 9pm PST (= Tue 05:00 UTC, offset -0800)
   workflow_dispatch:  # "Run workflow" button on GitHub, for testing
-    inputs:
-      message:
-        description: Which message to send
-        type: choice
-        options: [daily.txt, weekly.txt]
 
 jobs:
   send:
     runs-on: ubuntu-latest
     steps:
-      - name: Pick message
+      - name: Pick schedule
         id: pick
         run: |
           case "${{ github.event.schedule }}" in
-            "0 12 * * *") file=daily.txt;  want=-0700 ;;
-            "0 13 * * *") file=daily.txt;  want=-0800 ;;
-            "0 4 * * 2")  file=weekly.txt; want=-0700 ;;
-            "0 5 * * 2")  file=weekly.txt; want=-0800 ;;
-            *)            file="${{ inputs.message }}"; want=any ;;
+            "0 4 * * 2") want=-0700 ;;
+            "0 5 * * 2") want=-0800 ;;
+            *)           want=any ;;
           esac
           offset=$(TZ=America/Los_Angeles date +%z)
           if [ "$want" != any ] && [ "$want" != "$offset" ]; then
@@ -36,14 +27,13 @@ jobs:
             echo "send=no" >> "$GITHUB_OUTPUT"
           else
             echo "send=yes" >> "$GITHUB_OUTPUT"
-            echo "file=$file" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Download message from the repo
+      - name: Download weekly message from the repo
         if: steps.pick.outputs.send == 'yes'
         run: |
           curl --fail -sS -o message.txt \
-            "https://raw.githubusercontent.com/${{ github.repository }}/main/${{ steps.pick.outputs.file }}"
+            "https://raw.githubusercontent.com/${{ github.repository }}/main/weekly.txt"
           cat message.txt
 
       - name: Send to Telegram
@@ -52,7 +42,6 @@ jobs:
           TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          # Catch badly pasted secrets before Telegram answers with a vague 404.
           if ! [[ "$TOKEN" =~ ^[0-9]+:[A-Za-z0-9_-]+$ ]]; then
             echo "::error::TELEGRAM_BOT_TOKEN should look like 123456789:AAH... (nothing else in the value). It is ${#TOKEN} characters long."
             exit 1

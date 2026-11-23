@@ -2,9 +2,9 @@ name: Update deadlines
 
 on:
   schedule:
-    # GitHub cron runs on UTC. 08:30 UTC = 00:30 Pacific in winter (PST),
-    # 01:30 Pacific in summer (PDT) -- always after midnight, never before.
-    - cron: "30 8 * * *"
+    # 14:00 UTC = 6am PST (UTC-8) / 7am PDT (UTC-7) -- morning in both seasons,
+    # no DST split needed. GitHub may delay by 1-3h; delivery lands ~7-9am Pacific.
+    - cron: "0 14 * * *"
   workflow_dispatch:  # "Run workflow" button on GitHub, for testing
 
 permissions:
@@ -44,3 +44,21 @@ jobs:
           git add deadlines.json daily.txt weekly.txt
           git diff --cached --quiet || git commit -m "Update deadlines $(TZ=America/Los_Angeles date +%F)"
           git push
+
+      - name: Send daily message to Telegram
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if ! [[ "$TOKEN" =~ ^[0-9]+:[A-Za-z0-9_-]+$ ]]; then
+            echo "::error::TELEGRAM_BOT_TOKEN should look like 123456789:AAH... (nothing else in the value). It is ${#TOKEN} characters long."
+            exit 1
+          fi
+          if ! [[ "$CHAT_ID" =~ ^-?[0-9]+$ ]]; then
+            echo "::error::TELEGRAM_CHAT_ID should be just a number (nothing else in the value). It is ${#CHAT_ID} characters long."
+            exit 1
+          fi
+          curl --fail-with-body -sS "https://api.telegram.org/bot${TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${CHAT_ID}" \
+            --data-urlencode "text@daily.txt" \
+            --data-urlencode 'link_preview_options={"is_disabled": true}'
