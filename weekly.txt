@@ -4,10 +4,6 @@
   https://cs61a.org/fa26/projects/animator/
 • Tue Nov 24 — CS 61A: Project 4 Animator (TypeScript) (checkpoint 2)
   https://cs61a.org/fa26/projects/animator-ts/
-• Tue Nov 24 — CS 61B: Project 5B: BYOW World Generation
-  https://fa26.datastructur.es/proj5/proj5b
-• Tue Nov 24 — CS 61B: Week 13 survey
-  https://forms.gle/2uCiuWGTCLLdpEBN6
 • Tue Nov 24 — CS 47B: Project 5B: BYOW World Generation
   https://fa26.datastructur.es/proj5/proj5b
 • Wed Nov 25 — Data C8: Homework 10 Regression Inference

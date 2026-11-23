@@ -1,0 +1,479 @@
+{
+  "generated": "2026-11-22",
+  "classes": {
+    "CS 61A": [
+      {
+        "title": "Lab 0 Getting Started",
+        "raw_due": "Wed 9/2",
+        "due": "2026-09-02",
+        "url": "https://cs61a.org/fa26/labs/lab00/"
+      },
+      {
+        "title": "Homework 1 Functions",
+        "raw_due": "Thu 9/3",
+        "due": "2026-09-03",
+        "url": "https://cs61a.org/fa26/hw/hw01/"
+      },
+      {
+        "title": "Lab 1 Functions & Control",
+        "raw_due": "Wed 9/2",
+        "due": "2026-09-02",
+        "url": "https://cs61a.org/fa26/labs/lab01/"
+      },
+      {
+        "title": "Homework 2 Higher-Order Functions",
+        "raw_due": "Thu 9/10",
+        "due": "2026-09-10",
+        "url": "https://cs61a.org/fa26/hw/hw02/"
+      },
+      {
+        "title": "Project 1 The Game of Hog",
+        "raw_due": "Thu 9/17",
+        "due": "2026-09-17",
+        "url": "https://cs61a.org/fa26/projects/hog/"
+      },
+      {
+        "title": "Project 1 The Game of Hog (checkpoint)",
+        "raw_due": "Thu 9/10",
+        "due": "2026-09-10",
+        "url": "https://cs61a.org/fa26/projects/hog/"
+      },
+      {
+        "title": "Lab 2 Higher-Order Functions",
+        "raw_due": "Wed 9/9",
+        "due": "2026-09-09",
+        "url": "https://cs61a.org/fa26/labs/lab02/"
+      },
+      {
+        "title": "Homework 3 Recursion",
+        "raw_due": "Thu 9/24",
+        "due": "2026-09-24",
+        "url": "https://cs61a.org/fa26/hw/hw03/"
+      },
+      {
+        "title": "Lab 3 Lists",
+        "raw_due": "Wed 9/23",
+        "due": "2026-09-23",
+        "url": "https://cs61a.org/fa26/labs/lab03/"
+      },
+      {
+        "title": "Project 2 Computer Aided Typing Software",
+        "raw_due": "Fri 10/2",
+        "due": "2026-10-02",
+        "url": "https://cs61a.org/fa26/projects/cats/"
+      },
+      {
+        "title": "Project 2 Computer Aided Typing Software (checkpoint)",
+        "raw_due": "Mon 9/28",
+        "due": "2026-09-28",
+        "url": "https://cs61a.org/fa26/projects/cats/"
+      },
+      {
+        "title": "Lab 4 Linked Lists",
+        "raw_due": "Wed 9/30",
+        "due": "2026-09-30",
+        "url": "https://cs61a.org/fa26/labs/lab04/"
+      },
+      {
+        "title": "Hog Strategy Contest (Optional)",
+        "raw_due": "Mon 10/12",
+        "due": "2026-10-12",
+        "url": "https://cs61a.org/fa26/projects/hog_contest/"
+      },
+      {
+        "title": "Homework 4 Recursive Data",
+        "raw_due": "Thu 10/8",
+        "due": "2026-10-08",
+        "url": "https://cs61a.org/fa26/hw/hw04/"
+      },
+      {
+        "title": "Lab 5 Trees",
+        "raw_due": "Wed 10/7",
+        "due": "2026-10-07",
+        "url": "https://cs61a.org/fa26/labs/lab05/"
+      },
+      {
+        "title": "Homework 5 List Mutation",
+        "raw_due": "Thu 10/15",
+        "due": "2026-10-15",
+        "url": "https://cs61a.org/fa26/hw/hw05/"
+      },
+      {
+        "title": "Lab 6 Mutation",
+        "raw_due": "Wed 10/14",
+        "due": "2026-10-14",
+        "url": "https://cs61a.org/fa26/labs/lab06/"
+      },
+      {
+        "title": "Project 3 Ants Vs. SomeBees",
+        "raw_due": "Fri 10/23",
+        "due": "2026-10-23",
+        "url": "https://cs61a.org/fa26/projects/ants/"
+      },
+      {
+        "title": "Project 3 Ants Vs. SomeBees (checkpoint 1)",
+        "raw_due": "Fri 10/16",
+        "due": "2026-10-16",
+        "url": "https://cs61a.org/fa26/projects/ants/"
+      },
+      {
+        "title": "Project 3 Ants Vs. SomeBees (checkpoint 2)",
+        "raw_due": "Wed 10/21",
+        "due": "2026-10-21",
+        "url": "https://cs61a.org/fa26/projects/ants/"
+      },
+      {
+        "title": "Homework 6 Classes",
+        "raw_due": "Thu 10/22",
+        "due": "2026-10-22",
+        "url": "https://cs61a.org/fa26/hw/hw06/"
+      },
+      {
+        "title": "Lab 7 Iterators and Generators",
+        "raw_due": "Wed 10/21",
+        "due": "2026-10-21",
+        "url": "https://cs61a.org/fa26/labs/lab07/"
+      },
+      {
+        "title": "Homework 7 Gleam",
+        "raw_due": "Thu 11/5",
+        "due": "2026-11-05",
+        "url": "https://cs61a.org/fa26/hw/hw07/"
+      },
+      {
+        "title": "Lab 8 Gleam Lists",
+        "raw_due": "Wed 11/4",
+        "due": "2026-11-04",
+        "url": "https://cs61a.org/fa26/labs/lab08/"
+      },
+      {
+        "title": "Homework 8 Interpreters",
+        "raw_due": "Thu 11/12",
+        "due": "2026-11-12",
+        "url": "https://cs61a.org/fa26/hw/hw08/"
+      },
+      {
+        "title": "Project 4 Animator",
+        "raw_due": "Wed 12/2",
+        "due": "2026-12-02",
+        "url": "https://cs61a.org/fa26/projects/animator/"
+      },
+      {
+        "title": "Project 4 Animator (checkpoint 1)",
+        "raw_due": "Thu 11/19",
+        "due": "2026-11-19",
+        "url": "https://cs61a.org/fa26/projects/animator/"
+      },
+      {
+        "title": "Project 4 Animator (checkpoint 2)",
+        "raw_due": "Tue 11/24",
+        "due": "2026-11-24",
+        "url": "https://cs61a.org/fa26/projects/animator/"
+      },
+      {
+        "title": "Project 4 Animator (TypeScript)",
+        "raw_due": "Wed 12/2",
+        "due": "2026-12-02",
+        "url": "https://cs61a.org/fa26/projects/animator-ts/"
+      },
+      {
+        "title": "Project 4 Animator (TypeScript) (checkpoint 1)",
+        "raw_due": "Thu 11/19",
+        "due": "2026-11-19",
+        "url": "https://cs61a.org/fa26/projects/animator-ts/"
+      },
+      {
+        "title": "Project 4 Animator (TypeScript) (checkpoint 2)",
+        "raw_due": "Tue 11/24",
+        "due": "2026-11-24",
+        "url": "https://cs61a.org/fa26/projects/animator-ts/"
+      },
+      {
+        "title": "Lab 9 Web Applications",
+        "raw_due": "Wed 11/11",
+        "due": "2026-11-11",
+        "url": "https://cs61a.org/fa26/labs/lab09/"
+      },
+      {
+        "title": "Lab 10 SQL",
+        "raw_due": "Wed 11/18",
+        "due": "2026-11-18",
+        "url": "https://cs61a.org/fa26/labs/lab10/"
+      },
+      {
+        "title": "Homework 9 SQL",
+        "raw_due": "Sun 11/29",
+        "due": "2026-11-29",
+        "url": "https://cs61a.org/fa26/hw/hw09/"
+      },
+      {
+        "title": "Lab 11 Testing",
+        "raw_due": "Wed 12/2",
+        "due": "2026-12-02",
+        "url": null
+      },
+      {
+        "title": "Homework 10 Finale",
+        "raw_due": "Sun 12/13",
+        "due": "2026-12-13",
+        "url": null
+      }
+    ],
+    "Data C8": [
+      {
+        "title": "Lab 1",
+        "raw_due": "8/28",
+        "due": "2026-08-28",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab01%2Flab01.ipynb"
+      },
+      {
+        "title": "Homework 1 Causality and Expressions",
+        "raw_due": "9/2",
+        "due": "2026-09-02",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw01%2Fhw01.ipynb"
+      },
+      {
+        "title": "Lab 2",
+        "raw_due": "9/4",
+        "due": "2026-09-04",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab02%2Flab02.ipynb"
+      },
+      {
+        "title": "Homework 2 Arrays and Tables",
+        "raw_due": "9/9",
+        "due": "2026-09-09",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw02%2Fhw02.ipynb"
+      },
+      {
+        "title": "Lab 3",
+        "raw_due": "9/11",
+        "due": "2026-09-11",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab03%2Flab03.ipynb"
+      },
+      {
+        "title": "Homework 3 Table Manipulation and Visualization",
+        "raw_due": "9/16",
+        "due": "2026-09-16",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw03%2Fhw03.ipynb"
+      },
+      {
+        "title": "Lab 4",
+        "raw_due": "9/18",
+        "due": "2026-09-18",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab04%2Flab04.ipynb"
+      },
+      {
+        "title": "Homework 4 Functions, Tables, and Groups",
+        "raw_due": "9/30",
+        "due": "2026-09-30",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw04%2Fhw04.ipynb"
+      },
+      {
+        "title": "Project 1 (checkpoint)",
+        "raw_due": "10/2",
+        "due": "2026-10-02",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject1%2Fproject1.ipynb"
+      },
+      {
+        "title": "Project 1 (entire project)",
+        "raw_due": "10/9",
+        "due": "2026-10-09",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject1%2Fproject1.ipynb"
+      },
+      {
+        "title": "Lab 5",
+        "raw_due": "10/9",
+        "due": "2026-10-09",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab05%2Flab05.ipynb"
+      },
+      {
+        "title": "Homework 5 Chance, Empirical Probability Distribution",
+        "raw_due": "10/14",
+        "due": "2026-10-14",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw05%2Fhw05.ipynb"
+      },
+      {
+        "title": "Lab 6",
+        "raw_due": "10/16",
+        "due": "2026-10-16",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab06%2Flab06.ipynb"
+      },
+      {
+        "title": "Homework 6 Assessing Models and Testing Hypotheses",
+        "raw_due": "10/21",
+        "due": "2026-10-21",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw06%2Fhw06.ipynb"
+      },
+      {
+        "title": "Lab 7",
+        "raw_due": "10/23",
+        "due": "2026-10-23",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab07%2Flab07.ipynb"
+      },
+      {
+        "title": "Homework 7 Confidence Intervals",
+        "raw_due": "10/28",
+        "due": "2026-10-28",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw07%2Fhw07.ipynb"
+      },
+      {
+        "title": "Homework 8 Sample Sizes and Confidence Intervals",
+        "raw_due": "11/10",
+        "due": "2026-11-10",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw08%2Fhw08.ipynb"
+      },
+      {
+        "title": "Lab 8",
+        "raw_due": "10/30",
+        "due": "2026-10-30",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab08%2Flab08.ipynb"
+      },
+      {
+        "title": "Project 2 (checkpoint)",
+        "raw_due": "11/13",
+        "due": "2026-11-13",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject2%2Fproject2.ipynb"
+      },
+      {
+        "title": "Project 2 (entire project)",
+        "raw_due": "11/20",
+        "due": "2026-11-20",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject2%2Fproject2.ipynb"
+      },
+      {
+        "title": "Homework 9 Linear Regression",
+        "raw_due": "11/18",
+        "due": "2026-11-18",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw09%2Fhw09.ipynb"
+      },
+      {
+        "title": "Lab 9",
+        "raw_due": "11/20",
+        "due": "2026-11-20",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Flab%2Flab09%2Flab09.ipynb"
+      },
+      {
+        "title": "Homework 10 Regression Inference",
+        "raw_due": "11/25",
+        "due": "2026-11-25",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw10%2Fhw10.ipynb"
+      },
+      {
+        "title": "Project 3 (checkpoint)",
+        "raw_due": "11/30",
+        "due": "2026-11-30",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject3%2Fproject3.ipynb"
+      },
+      {
+        "title": "Project 3 (entire project)",
+        "raw_due": "12/4",
+        "due": "2026-12-04",
+        "url": "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject3%2Fproject3.ipynb"
+      },
+      {
+        "title": "Homework 11 Classification",
+        "raw_due": "12/6",
+        "due": "2026-12-06",
+        "url": null
+      },
+      {
+        "title": "Lab 10",
+        "raw_due": "12/4",
+        "due": "2026-12-04",
+        "url": null
+      },
+      {
+        "title": "Homework 12 Extra Credit",
+        "raw_due": "12/9",
+        "due": "2026-12-09",
+        "url": null
+      }
+    ],
+    "CS 47B": [
+      {
+        "title": "Homework HW1: Setup",
+        "raw_due": "2026/08/28",
+        "due": "2026-08-28",
+        "url": "https://fa26.datastructur.es/homeworks/hw01"
+      },
+      {
+        "title": "Homework HW2: Java Intro",
+        "raw_due": "2026/09/01",
+        "due": "2026-09-01",
+        "url": "https://fa26.datastructur.es/homeworks/hw02"
+      },
+      {
+        "title": "Homework HW5: BSTMaps",
+        "raw_due": "2026/10/16",
+        "due": "2026-10-16",
+        "url": "https://fa26.datastructur.es/homeworks/hw05"
+      },
+      {
+        "title": "Homework HW6: Midterm Review",
+        "raw_due": "2026/11/04",
+        "due": "2026-11-04",
+        "url": "https://www.gradescope.com/courses/1361389/assignments/8984627"
+      },
+      {
+        "title": "Homework HW7: HashMaps",
+        "raw_due": "2026/11/10",
+        "due": "2026-11-10",
+        "url": "https://fa26.datastructur.es/homeworks/hw07"
+      },
+      {
+        "title": "Homework HW9: Final Review",
+        "raw_due": "2026/12/11",
+        "due": "2026-12-11",
+        "url": null
+      },
+      {
+        "title": "Project 4A: TimeSeries and NGramMap",
+        "raw_due": "2026/10/13",
+        "due": "2026-10-13",
+        "url": "https://fa26.datastructur.es/proj4/proj4a"
+      },
+      {
+        "title": "Project Checkpoint",
+        "raw_due": "2026/10/20",
+        "due": "2026-10-20",
+        "url": null
+      },
+      {
+        "title": "Project Design Doc",
+        "raw_due": "2026/10/20",
+        "due": "2026-10-20",
+        "url": null
+      },
+      {
+        "title": "Project 4C: Wordnet (k == 0)",
+        "raw_due": "2026/10/30",
+        "due": "2026-10-30",
+        "url": "https://fa26.datastructur.es/proj4/proj4c"
+      },
+      {
+        "title": "Project 4D: Wordnet (k != 0)",
+        "raw_due": "2026/11/13",
+        "due": "2026-11-13",
+        "url": "https://fa26.datastructur.es/proj4/proj4d"
+      },
+      {
+        "title": "Project 5A: BYOW Design",
+        "raw_due": "2026/11/18",
+        "due": "2026-11-18",
+        "url": "https://fa26.datastructur.es/proj5/proj5a"
+      },
+      {
+        "title": "Project 5B: BYOW World Generation",
+        "raw_due": "2026/11/24",
+        "due": "2026-11-24",
+        "url": "https://fa26.datastructur.es/proj5/proj5b"
+      },
+      {
+        "title": "Project 5C: BYOW Interactivity",
+        "raw_due": "2026/12/01",
+        "due": "2026-12-01",
+        "url": null
+      }
+    ]
+  }
+}

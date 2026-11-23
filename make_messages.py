@@ -3,7 +3,7 @@ import sys
 from datetime import date, datetime, timedelta
 from zoneinfo import ZoneInfo
 
-INPUT_FILE = "deadlines.json"
+INPUT_FILE = "active_deadlines.json"
 DAILY_FILE = "daily.txt"
 WEEKLY_FILE = "weekly.txt"
 
