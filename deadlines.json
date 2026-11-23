@@ -388,6 +388,310 @@
         "due": "2026-12-09",
         "url": null
       }
+    ],
+    "CS 61B": [
+      {
+        "title": "Homework HW1: Setup",
+        "raw_due": "2026/08/28",
+        "due": "2026-08-28",
+        "url": "https://fa26.datastructur.es/homeworks/hw01"
+      },
+      {
+        "title": "Homework HW2: Java Intro",
+        "raw_due": "2026/09/01",
+        "due": "2026-09-01",
+        "url": "https://fa26.datastructur.es/homeworks/hw02"
+      },
+      {
+        "title": "Homework HW3: IntLists",
+        "raw_due": "2026/09/08",
+        "due": "2026-09-08",
+        "url": "https://fa26.datastructur.es/homeworks/hw03"
+      },
+      {
+        "title": "Homework HW4: Asymptotic Analysis",
+        "raw_due": "2026/10/09",
+        "due": "2026-10-09",
+        "url": "https://www.gradescope.com/courses/1361389/assignments/8786038/"
+      },
+      {
+        "title": "Homework HW5: BSTMaps",
+        "raw_due": "2026/10/16",
+        "due": "2026-10-16",
+        "url": "https://fa26.datastructur.es/homeworks/hw05"
+      },
+      {
+        "title": "Homework HW6: Midterm Review",
+        "raw_due": "2026/11/04",
+        "due": "2026-11-04",
+        "url": "https://www.gradescope.com/courses/1361389/assignments/8984627"
+      },
+      {
+        "title": "Homework HW7: HashMaps",
+        "raw_due": "2026/11/10",
+        "due": "2026-11-10",
+        "url": "https://fa26.datastructur.es/homeworks/hw07"
+      },
+      {
+        "title": "Homework HW8: Sorting",
+        "raw_due": "2026/12/09",
+        "due": "2026-12-09",
+        "url": null
+      },
+      {
+        "title": "Homework HW9: Final Review",
+        "raw_due": "2026/12/11",
+        "due": "2026-12-11",
+        "url": null
+      },
+      {
+        "title": "Project 0: Particle Simulator",
+        "raw_due": "2026/09/08",
+        "due": "2026-09-08",
+        "url": "https://fa26.datastructur.es/projects/proj0"
+      },
+      {
+        "title": "Project 1A: Deques and Tests",
+        "raw_due": "2026/09/11",
+        "due": "2026-09-11",
+        "url": "https://fa26.datastructur.es/projects/proj1/proj1a"
+      },
+      {
+        "title": "Project 1B: LinkedListDeque",
+        "raw_due": "2026/09/16",
+        "due": "2026-09-16",
+        "url": "https://fa26.datastructur.es/projects/proj1/proj1b"
+      },
+      {
+        "title": "Project 2: ArrayDeque",
+        "raw_due": "2026/09/22",
+        "due": "2026-09-22",
+        "url": "https://fa26.datastructur.es/projects/proj2"
+      },
+      {
+        "title": "Project 3: Percolation",
+        "raw_due": "2026/10/06",
+        "due": "2026-10-06",
+        "url": "https://fa26.datastructur.es/projects/proj3"
+      },
+      {
+        "title": "Project 4A: TimeSeries and NGramMap",
+        "raw_due": "2026/10/13",
+        "due": "2026-10-13",
+        "url": "https://fa26.datastructur.es/proj4/proj4a"
+      },
+      {
+        "title": "Project Checkpoint",
+        "raw_due": "2026/10/20",
+        "due": "2026-10-20",
+        "url": null
+      },
+      {
+        "title": "Project Design Doc",
+        "raw_due": "2026/10/20",
+        "due": "2026-10-20",
+        "url": null
+      },
+      {
+        "title": "Project 4C: Wordnet (k == 0)",
+        "raw_due": "2026/10/30",
+        "due": "2026-10-30",
+        "url": "https://fa26.datastructur.es/proj4/proj4c"
+      },
+      {
+        "title": "Project 4D: Wordnet (k != 0)",
+        "raw_due": "2026/11/13",
+        "due": "2026-11-13",
+        "url": "https://fa26.datastructur.es/proj4/proj4d"
+      },
+      {
+        "title": "Project 5A: BYOW Design",
+        "raw_due": "2026/11/18",
+        "due": "2026-11-18",
+        "url": "https://fa26.datastructur.es/proj5/proj5a"
+      },
+      {
+        "title": "Project 5B: BYOW World Generation",
+        "raw_due": "2026/11/24",
+        "due": "2026-11-24",
+        "url": "https://fa26.datastructur.es/proj5/proj5b"
+      },
+      {
+        "title": "Project 5C: BYOW Interactivity",
+        "raw_due": "2026/12/01",
+        "due": "2026-12-01",
+        "url": null
+      },
+      {
+        "title": "Week 1 survey",
+        "raw_due": "2026-08-28",
+        "due": "2026-08-28",
+        "url": "https://forms.gle/JmziBms2EBFhUCQs9"
+      },
+      {
+        "title": "Week 2 survey",
+        "raw_due": "2026-09-08",
+        "due": "2026-09-08",
+        "url": "https://forms.gle/VnB5st677npmZHpw6"
+      },
+      {
+        "title": "Week 3 survey",
+        "raw_due": "2026-09-15",
+        "due": "2026-09-15",
+        "url": "https://forms.gle/wc3ryLCKsmqCnjXi7"
+      },
+      {
+        "title": "Week 4 survey",
+        "raw_due": "2026-09-22",
+        "due": "2026-09-22",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdcmvH0bjoiDOsbpjdL1ytdcVVDPLfTmRGpvzFysSKnwfPK4Q/viewform"
+      },
+      {
+        "title": "Week 5 survey",
+        "raw_due": "2026-09-29",
+        "due": "2026-09-29",
+        "url": "https://forms.gle/9UoBifxwKXcNW9cU9"
+      },
+      {
+        "title": "Week 6 survey",
+        "raw_due": "2026-10-06",
+        "due": "2026-10-06",
+        "url": "https://forms.gle/utHkuqRCNV412Ufx6"
+      },
+      {
+        "title": "Week 7 survey",
+        "raw_due": "2026-10-13",
+        "due": "2026-10-13",
+        "url": "https://forms.gle/SPZUHExLJ86AEi5ZA"
+      },
+      {
+        "title": "Week 8 survey",
+        "raw_due": "2026-10-20",
+        "due": "2026-10-20",
+        "url": "https://forms.gle/nhLAgHcNvpDGqPrs6"
+      },
+      {
+        "title": "Week 9 survey",
+        "raw_due": "2026-10-27",
+        "due": "2026-10-27",
+        "url": "https://forms.gle/3DvZYQDXFC4eQ9RA9"
+      },
+      {
+        "title": "Week 10 survey",
+        "raw_due": "2026-11-03",
+        "due": "2026-11-03",
+        "url": "https://forms.gle/qz1hejccNU7JTaoW6"
+      },
+      {
+        "title": "Week 11 survey",
+        "raw_due": "2026-11-10",
+        "due": "2026-11-10",
+        "url": "https://forms.gle/29UomXjRc1oJFbDm9"
+      },
+      {
+        "title": "Week 12 survey",
+        "raw_due": "2026-11-17",
+        "due": "2026-11-17",
+        "url": "https://forms.gle/9eqHwyrZL4nH8JMs7"
+      },
+      {
+        "title": "Week 13 survey",
+        "raw_due": "2026-11-24",
+        "due": "2026-11-24",
+        "url": "https://forms.gle/2uCiuWGTCLLdpEBN6"
+      },
+      {
+        "title": "Week 15 survey",
+        "raw_due": "2026-12-08",
+        "due": "2026-12-08",
+        "url": null
+      }
+    ],
+    "CS 47B": [
+      {
+        "title": "Homework HW1: Setup",
+        "raw_due": "2026/08/28",
+        "due": "2026-08-28",
+        "url": "https://fa26.datastructur.es/homeworks/hw01"
+      },
+      {
+        "title": "Homework HW2: Java Intro",
+        "raw_due": "2026/09/01",
+        "due": "2026-09-01",
+        "url": "https://fa26.datastructur.es/homeworks/hw02"
+      },
+      {
+        "title": "Homework HW5: BSTMaps",
+        "raw_due": "2026/10/16",
+        "due": "2026-10-16",
+        "url": "https://fa26.datastructur.es/homeworks/hw05"
+      },
+      {
+        "title": "Homework HW6: Midterm Review",
+        "raw_due": "2026/11/04",
+        "due": "2026-11-04",
+        "url": "https://www.gradescope.com/courses/1361389/assignments/8984627"
+      },
+      {
+        "title": "Homework HW7: HashMaps",
+        "raw_due": "2026/11/10",
+        "due": "2026-11-10",
+        "url": "https://fa26.datastructur.es/homeworks/hw07"
+      },
+      {
+        "title": "Homework HW9: Final Review",
+        "raw_due": "2026/12/11",
+        "due": "2026-12-11",
+        "url": null
+      },
+      {
+        "title": "Project 4A: TimeSeries and NGramMap",
+        "raw_due": "2026/10/13",
+        "due": "2026-10-13",
+        "url": "https://fa26.datastructur.es/proj4/proj4a"
+      },
+      {
+        "title": "Project Checkpoint",
+        "raw_due": "2026/10/20",
+        "due": "2026-10-20",
+        "url": null
+      },
+      {
+        "title": "Project Design Doc",
+        "raw_due": "2026/10/20",
+        "due": "2026-10-20",
+        "url": null
+      },
+      {
+        "title": "Project 4C: Wordnet (k == 0)",
+        "raw_due": "2026/10/30",
+        "due": "2026-10-30",
+        "url": "https://fa26.datastructur.es/proj4/proj4c"
+      },
+      {
+        "title": "Project 4D: Wordnet (k != 0)",
+        "raw_due": "2026/11/13",
+        "due": "2026-11-13",
+        "url": "https://fa26.datastructur.es/proj4/proj4d"
+      },
+      {
+        "title": "Project 5A: BYOW Design",
+        "raw_due": "2026/11/18",
+        "due": "2026-11-18",
+        "url": "https://fa26.datastructur.es/proj5/proj5a"
+      },
+      {
+        "title": "Project 5B: BYOW World Generation",
+        "raw_due": "2026/11/24",
+        "due": "2026-11-24",
+        "url": "https://fa26.datastructur.es/proj5/proj5b"
+      },
+      {
+        "title": "Project 5C: BYOW Interactivity",
+        "raw_due": "2026/12/01",
+        "due": "2026-12-01",
+        "url": null
+      }
     ]
   }
 }

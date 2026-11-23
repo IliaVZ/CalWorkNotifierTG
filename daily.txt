@@ -6,3 +6,13 @@ CS 61A
   https://cs61a.org/fa26/projects/animator/
 • Project 4 Animator (TypeScript) (checkpoint 2)
   https://cs61a.org/fa26/projects/animator-ts/
+
+CS 61B
+• Project 5B: BYOW World Generation
+  https://fa26.datastructur.es/proj5/proj5b
+• Week 13 survey
+  https://forms.gle/2uCiuWGTCLLdpEBN6
+
+CS 47B
+• Project 5B: BYOW World Generation
+  https://fa26.datastructur.es/proj5/proj5b

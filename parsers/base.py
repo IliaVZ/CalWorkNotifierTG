@@ -30,11 +30,17 @@ MONTHS = {
 }
 
 
+_soup_cache: dict = {}
+
+
 def get_soup(url):
-    print(f"Fetching {url}")
-    r = requests.get(url, timeout=30)
-    r.raise_for_status()
-    return BeautifulSoup(r.text, "html.parser")
+    """Fetch and parse a URL, caching within this process run."""
+    if url not in _soup_cache:
+        print(f"Fetching {url}")
+        r = requests.get(url, timeout=30)
+        r.raise_for_status()
+        _soup_cache[url] = BeautifulSoup(r.text, "html.parser")
+    return _soup_cache[url]
 
 
 def clean(text):
