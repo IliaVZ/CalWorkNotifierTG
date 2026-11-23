@@ -25,6 +25,16 @@ def all_deadlines(data):
             for d in deadlines]
 
 
+def upcoming(deadlines, today):
+    """Deadlines due today or later, sorted by date. Undated kept at the end."""
+    dated = sorted(
+        (d for d in deadlines if d["due"] and d["due"] >= today),
+        key=lambda d: d["due"],
+    )
+    undated = [d for d in deadlines if d["due"] is None]
+    return dated + undated
+
+
 def grouped_by_class(deadlines):
     """Deadlines listed under their class; classes with nothing are left out."""
     lines = []
@@ -87,7 +97,7 @@ if __name__ == "__main__":
     today = sys.argv[1] if len(sys.argv) > 1 else datetime.now(ZoneInfo("America/Los_Angeles")).date().isoformat()
 
     with open(INPUT_FILE) as f:
-        deadlines = all_deadlines(json.load(f))
+        deadlines = upcoming(all_deadlines(json.load(f)), today)
 
     warning = undated_warning(deadlines)
     with open(DAILY_FILE, "w") as f:
