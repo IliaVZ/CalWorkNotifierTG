@@ -1,5 +1,4 @@
-📅 Nothing due tonight (Mon Nov 23) 🎉
-Next deadline: Tue Nov 24
+📅 Due tonight (Tue Nov 24)
 
 CS 61A
 • Project 4 Animator (checkpoint 2)
