@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23",
+  "generated": "2026-11-25",
   "classes": {
     "CS 61A": [
       {
@@ -1220,8 +1220,8 @@
       },
       {
         "title": "Lab 6",
-        "raw_due": "Thu Dec 03",
-        "due": "2026-12-03",
+        "raw_due": "Sun Dec 06",
+        "due": "2026-12-06",
         "url": "https://cs152.org/lab/lab6/"
       }
     ],
