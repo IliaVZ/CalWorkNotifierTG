@@ -1,10 +1,38 @@
-https://data140.org/
-https://ds100.org/fa26/
-https://cal-cs180.github.io/fa26/
-https://eecs189.org/fa26/
-https://cs61c.org/fa26/
-https://www.eecs70.org/
-https://cs152.org/
-https://fa26.cs161.org/
-https://www-inst.eecs.berkeley.edu/~cs164/fa26/schedule/
-https://fa26.cs168.io/
+# Berkeley Fall 2026 CS course websites
+# Format: URL | course | parseable | parser / notes
+#
+# Parseable = True means machine-readable deadlines exist on the public page
+# and are (or can be) extracted by one of the parsers in parsers/.
+
+# ── Already integrated ────────────────────────────────────────────────────────
+https://cs61a.org/fa26/                               | CS 61A   | True  | alpha
+https://data8.org/fa26/                               | Data C8  | True  | alpha
+https://fa26.datastructur.es/deadlines/               | CS 61B   | True  | beta
+https://data140.org/                                  | Data 140 | True  | alpha
+https://cs61c.org/fa26/                               | CS 61C   | True  | gamma
+https://ds100.org/fa26/                               | DS 100   | True  | zeta
+https://eecs189.org/fa26/                             | EECS 189 | True  | epsilon
+https://cs152.org/                                    | CS 152   | True  | delta
+https://fa26.cs161.org/                               | CS 161   | True  | delta
+https://fa26.cs168.io/                                | CS 168   | True  | delta
+
+# ── Parseable – need new or extended parser ───────────────────────────────────
+https://inst.eecs.berkeley.edu/~cs188/fa26/           | CS 188   | True  | delta (table.spanned-table td, matches as-is)
+https://cs184.eecs.berkeley.edu/fa26                  | CS 184   | True  | needs delta extension: td+(due M/D) but no table.spanned-table class
+https://cs186berkeley.net/                            | CS 186   | True  | needs delta extension: td+(due M/D) but no table.spanned-table class
+https://berkeley-cs182.github.io/fa26/schedule/       | CS C182  | True  | needs zeta extension: div.syllabus-item, strong.label-homework text ends with " Due"
+https://teaching.paulos.net/cs160_FL2026/syllabus.html| CS 160   | True  | needs new parser: <address> blocks with inline "(due DATE)" text
+
+# ── Not parseable ─────────────────────────────────────────────────────────────
+https://cs10.org/fa26/                                | CS 10    | False | FullCalendar JS widget — no server-side deadline data
+https://cs162.org/                                    | CS 162   | False | links out to a live Google Calendar — no inline deadlines
+https://cs170.org/                                    | CS 170   | False | FullCalendar JS widget — no server-side deadline data
+https://cal-cs180.github.io/fa26/                     | CS 180   | False | no machine-readable due dates on the public page
+https://www.eecs70.org/                               | EECS 70  | False | FullCalendar JS widget — no server-side deadline data
+https://www-inst.eecs.berkeley.edu/~cs164/fa26/       | CS 164   | False | SSL cert mismatch + CalNet login required
+
+# ── No accessible public site ─────────────────────────────────────────────────
+# CS 169A  — bCourses (login required)
+# CS 171   — cs171.org SSL error (self-signed cert), no inst.eecs.berkeley.edu mirror
+# CS 194   — no findable public course website for Fall 2026
+# CS C249A — graduate seminar, bCourses only

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27",
+  "generated": "2026-11-28",
   "classes": {
     "CS 61A": [
       {
@@ -1353,6 +1353,386 @@
         "raw_due": "Fri Dec 04",
         "due": "2026-12-04",
         "url": "https://fa26.cs168.io/proj3/"
+      }
+    ],
+    "CS 188": [
+      {
+        "title": "HW0 [optional]",
+        "raw_due": "Wed Sep 02",
+        "due": "2026-09-02",
+        "url": "https://www.gradescope.com/courses/1353355/assignments/8498375/"
+      },
+      {
+        "title": "Project 0 (optional)",
+        "raw_due": "Wed Sep 02",
+        "due": "2026-09-02",
+        "url": "https://inst.eecs.berkeley.edu/~cs188/fa26/projects/proj0"
+      },
+      {
+        "title": "HW1",
+        "raw_due": "Wed Sep 09",
+        "due": "2026-09-09",
+        "url": "https://www.gradescope.com/courses/1353355/assignments/8520505/"
+      },
+      {
+        "title": "Project 1",
+        "raw_due": "Fri Sep 18",
+        "due": "2026-09-18",
+        "url": "https://inst.eecs.berkeley.edu/~cs188/fa26/projects/proj1"
+      },
+      {
+        "title": "HW2",
+        "raw_due": "Wed Sep 16",
+        "due": "2026-09-16",
+        "url": "https://www.gradescope.com/courses/1353355/assignments/8530690/"
+      },
+      {
+        "title": "HW3",
+        "raw_due": "Wed Sep 23",
+        "due": "2026-09-23",
+        "url": "https://www.gradescope.com/courses/1353355/assignments/8618190/"
+      },
+      {
+        "title": "HW4",
+        "raw_due": "Wed Sep 30",
+        "due": "2026-09-30",
+        "url": "https://www.gradescope.com/courses/1353355/assignments/8656494/"
+      },
+      {
+        "title": "Project 2",
+        "raw_due": "Fri Oct 02",
+        "due": "2026-10-02",
+        "url": "https://inst.eecs.berkeley.edu/~cs188/fa26/projects/proj2"
+      },
+      {
+        "title": "HW5",
+        "raw_due": "Wed Oct 07",
+        "due": "2026-10-07",
+        "url": "https://www.gradescope.com/courses/1353355/assignments/8738207"
+      },
+      {
+        "title": "HW6",
+        "raw_due": "Wed Oct 14",
+        "due": "2026-10-14",
+        "url": "https://www.gradescope.com/courses/1353355/assignments/8738260"
+      },
+      {
+        "title": "Project 3",
+        "raw_due": "Fri Oct 23",
+        "due": "2026-10-23",
+        "url": "https://inst.eecs.berkeley.edu/~cs188/fa26/projects/proj3"
+      },
+      {
+        "title": "HW7",
+        "raw_due": "Wed Nov 04",
+        "due": "2026-11-04",
+        "url": "https://www.gradescope.com/courses/1353355/assignments/8837730"
+      },
+      {
+        "title": "Project 4",
+        "raw_due": "Fri Nov 13",
+        "due": "2026-11-13",
+        "url": "https://inst.eecs.berkeley.edu/~cs188/fa26/projects/proj4"
+      },
+      {
+        "title": "HW8",
+        "raw_due": "Wed Nov 11",
+        "due": "2026-11-11",
+        "url": "https://www.gradescope.com/courses/1353355/assignments/8939279"
+      },
+      {
+        "title": "HW9",
+        "raw_due": "Wed Nov 18",
+        "due": "2026-11-18",
+        "url": "https://www.gradescope.com/courses/1353355/assignments/9045332"
+      },
+      {
+        "title": "HW10",
+        "raw_due": "Mon Nov 30",
+        "due": "2026-11-30",
+        "url": "https://www.gradescope.com/courses/1353355/assignments/9057138"
+      },
+      {
+        "title": "Project 5",
+        "raw_due": "Fri Dec 04",
+        "due": "2026-12-04",
+        "url": "https://inst.eecs.berkeley.edu/~cs188/fa26/projects/proj5"
+      }
+    ],
+    "CS 184": [
+      {
+        "title": "Homework 1 Checkpoint",
+        "raw_due": "09/13",
+        "due": "2026-09-13",
+        "url": "https://cs184.eecs.berkeley.edu/fa26/hw/hw1/"
+      },
+      {
+        "title": "Homework 1",
+        "raw_due": "09/25",
+        "due": "2026-09-25",
+        "url": "https://cs184.eecs.berkeley.edu/fa26/hw/hw1/"
+      },
+      {
+        "title": "Homework 2 Checkpoint",
+        "raw_due": "10/03",
+        "due": "2026-10-03",
+        "url": "https://cs184.eecs.berkeley.edu/fa26/hw/hw2/"
+      },
+      {
+        "title": "Homework 2",
+        "raw_due": "10/09",
+        "due": "2026-10-09",
+        "url": "https://cs184.eecs.berkeley.edu/fa26/hw/hw2/"
+      },
+      {
+        "title": "Homework 3 Checkpoint",
+        "raw_due": "10/18",
+        "due": "2026-10-18",
+        "url": "https://cs184.eecs.berkeley.edu/fa26/hw/hw3/"
+      },
+      {
+        "title": "Homework 3",
+        "raw_due": "11/06",
+        "due": "2026-11-06",
+        "url": "https://cs184.eecs.berkeley.edu/fa26/hw/hw3/"
+      },
+      {
+        "title": "Final Project Proposal",
+        "raw_due": "11/10",
+        "due": "2026-11-10",
+        "url": "https://cs184.eecs.berkeley.edu/fa26/project"
+      },
+      {
+        "title": "Homework 4 Checkpoint",
+        "raw_due": "11/10",
+        "due": "2026-11-10",
+        "url": "https://cs184.eecs.berkeley.edu/fa26/hw/hw4/"
+      },
+      {
+        "title": "Homework 4",
+        "raw_due": "11/27",
+        "due": "2026-11-27",
+        "url": "https://cs184.eecs.berkeley.edu/fa26/hw/hw4/"
+      },
+      {
+        "title": "Final Project Milestone",
+        "raw_due": "11/22",
+        "due": "2026-11-22",
+        "url": "https://cs184.eecs.berkeley.edu/fa26/project/#3-milestone-deliverables-graded"
+      },
+      {
+        "title": "Final Project Report & Video",
+        "raw_due": "12/06",
+        "due": "2026-12-06",
+        "url": "https://cs184.eecs.berkeley.edu/fa26/project/#5-final-deliverables"
+      }
+    ],
+    "CS 186": [
+      {
+        "title": "Pre-semester Survey",
+        "raw_due": "9/4",
+        "due": "2026-09-04",
+        "url": "https://www.gradescope.com/courses/1365054/assignments/8502597"
+      },
+      {
+        "title": "Setup",
+        "raw_due": "9/4",
+        "due": "2026-09-04",
+        "url": "https://cs186berkeley.net/projects/0/"
+      },
+      {
+        "title": "Vitamin 1",
+        "raw_due": "9/8",
+        "due": "2026-09-08",
+        "url": "https://www.gradescope.com/courses/1365054/assignments/8504437"
+      },
+      {
+        "title": "SQL",
+        "raw_due": "9/10",
+        "due": "2026-09-10",
+        "url": "https://cs186berkeley.net/projects/1/"
+      },
+      {
+        "title": "Vitamin 2",
+        "raw_due": "9/14",
+        "due": "2026-09-14",
+        "url": "https://www.gradescope.com/courses/1365054/assignments/8566291"
+      },
+      {
+        "title": "Vitamin 3",
+        "raw_due": "9/21",
+        "due": "2026-09-21",
+        "url": "https://www.gradescope.com/courses/1365054/assignments/8613770"
+      },
+      {
+        "title": "B+ Trees",
+        "raw_due": "9/24",
+        "due": "2026-09-24",
+        "url": "https://cs186berkeley.net/projects/2/"
+      },
+      {
+        "title": "Vitamin 4",
+        "raw_due": "9/28",
+        "due": "2026-09-28",
+        "url": "https://www.gradescope.com/courses/1365054/assignments/8670615"
+      },
+      {
+        "title": "Joins + QO (part 1)",
+        "raw_due": "10/10",
+        "due": "2026-10-10",
+        "url": "https://cs186berkeley.net/projects/3/"
+      },
+      {
+        "title": "Vitamin 5",
+        "raw_due": "10/7 (extended",
+        "due": "2026-10-07",
+        "url": "https://www.gradescope.com/courses/1365054/assignments/8748741"
+      },
+      {
+        "title": "Vitamin 6",
+        "raw_due": "10/12",
+        "due": "2026-10-12",
+        "url": "https://www.gradescope.com/courses/1365054/assignments/8805452"
+      },
+      {
+        "title": "Vitamin 7",
+        "raw_due": "10/19",
+        "due": "2026-10-19",
+        "url": "https://www.gradescope.com/courses/1365054/assignments/8848780"
+      },
+      {
+        "title": "Locking (part 1)",
+        "raw_due": "10/26",
+        "due": "2026-10-26",
+        "url": "https://cs186berkeley.net/projects/4/"
+      },
+      {
+        "title": "Vitamin 8",
+        "raw_due": "10/26",
+        "due": "2026-10-26",
+        "url": "https://www.gradescope.com/courses/1365054/assignments/8893092"
+      },
+      {
+        "title": "Vitamin 9",
+        "raw_due": "11/9",
+        "due": "2026-11-09",
+        "url": "https://www.gradescope.com/courses/1365054/assignments/8937193"
+      },
+      {
+        "title": "Vitamin 10",
+        "raw_due": "11/16",
+        "due": "2026-11-16",
+        "url": "https://www.gradescope.com/courses/1365054/assignments/9031761"
+      },
+      {
+        "title": "Recovery",
+        "raw_due": "11/23",
+        "due": "2026-11-23",
+        "url": "https://cs186berkeley.net/projects/5/"
+      },
+      {
+        "title": "Vitamin 11",
+        "raw_due": "11/23",
+        "due": "2026-11-23",
+        "url": "https://www.gradescope.com/courses/1365054/assignments/9053480"
+      },
+      {
+        "title": "Vitamin 12",
+        "raw_due": "11/30",
+        "due": "2026-11-30",
+        "url": "https://www.gradescope.com/courses/1365054/assignments/9065591"
+      },
+      {
+        "title": "NoSQL",
+        "raw_due": "12/4",
+        "due": "2026-12-04",
+        "url": "https://cs186berkeley.net/projects/6/"
+      }
+    ],
+    "CS C182": [
+      {
+        "title": "Homework 0",
+        "raw_due": "Wed, Sep 02",
+        "due": "2026-09-02",
+        "url": "https://berkeley-cs182.github.io/fa26/assets/assignments/hw00_question.pdf"
+      },
+      {
+        "title": "Homework 1",
+        "raw_due": "Wed, Sep 09",
+        "due": "2026-09-09",
+        "url": "https://berkeley-cs182.github.io/fa26/assets/assignments/hw01_question.pdf"
+      },
+      {
+        "title": "Homework 2",
+        "raw_due": "Wed, Sep 16",
+        "due": "2026-09-16",
+        "url": "https://berkeley-cs182.github.io/fa26/assets/assignments/hw02_question.pdf"
+      },
+      {
+        "title": "Homework 3",
+        "raw_due": "Wed, Sep 23",
+        "due": "2026-09-23",
+        "url": "https://berkeley-cs182.github.io/fa26/assets/assignments/hw03_question.pdf"
+      },
+      {
+        "title": "Homework 4",
+        "raw_due": "Wed, Sep 30",
+        "due": "2026-09-30",
+        "url": "https://berkeley-cs182.github.io/fa26/assets/assignments/hw04_question.pdf"
+      },
+      {
+        "title": "Homework 5",
+        "raw_due": "Wed, Oct 07",
+        "due": "2026-10-07",
+        "url": "https://berkeley-cs182.github.io/fa26/assets/assignments/hw05_question.pdf"
+      },
+      {
+        "title": "Homework 6",
+        "raw_due": "Wed, Oct 14",
+        "due": "2026-10-14",
+        "url": "https://berkeley-cs182.github.io/fa26/assets/assignments/hw06_question.pdf"
+      },
+      {
+        "title": "Homework 7",
+        "raw_due": "Wed, Oct 21",
+        "due": "2026-10-21",
+        "url": "https://berkeley-cs182.github.io/fa26/assets/assignments/hw07_question.pdf"
+      },
+      {
+        "title": "Homework 8",
+        "raw_due": "Wed, Oct 28",
+        "due": "2026-10-28",
+        "url": "https://berkeley-cs182.github.io/fa26/assets/assignments/hw08_question.pdf"
+      },
+      {
+        "title": "Homework 9",
+        "raw_due": "Wed, Nov 04",
+        "due": "2026-11-04",
+        "url": "https://berkeley-cs182.github.io/fa26/assets/assignments/hw09_question.pdf"
+      },
+      {
+        "title": "Homework 10",
+        "raw_due": "Wed, Nov 11",
+        "due": "2026-11-11",
+        "url": "https://berkeley-cs182.github.io/fa26/assets/assignments/hw10_question.pdf"
+      },
+      {
+        "title": "Homework 11",
+        "raw_due": "Wed, Nov 18",
+        "due": "2026-11-18",
+        "url": "https://berkeley-cs182.github.io/fa26/assets/assignments/hw11_question.pdf"
+      },
+      {
+        "title": "Homework 12",
+        "raw_due": "Wed, Nov 25",
+        "due": "2026-11-25",
+        "url": "https://berkeley-cs182.github.io/fa26/assets/assignments/hw12_question.pdf"
+      },
+      {
+        "title": "Homework 13",
+        "raw_due": "Wed, Dec 02",
+        "due": "2026-12-02",
+        "url": "https://berkeley-cs182.github.io/fa26/assets/assignments/hw13_question.pdf"
       }
     ]
   }

@@ -5,9 +5,17 @@ To add a structure: create parsers/gamma.py etc., then reference it here.
 To filter a course: pass a filter_fn as the 4th element (None = keep all).
 
 Skipped courses (not in CLASSES) and why:
+  CS 10    — FullCalendar JS widget (no server-side deadline data)
+  CS 160   — unique <address>-based structure; needs its own parser (not yet written)
+  CS 162   — links to a live Google Calendar
+  CS 164   — SSL cert mismatch + CalNet login required
+  CS 170   — FullCalendar JS widget
+  CS 171   — self-signed SSL cert, no accessible public site
   CS 180   — no machine-readable due dates on the public page
-  EECS 70  — deadlines are in a JavaScript-rendered FullCalendar widget
-  CS 164   — SSL cert mismatch + CalNet login required on the alternate host
+  CS 169A  — bCourses (login required)
+  CS 194   — no findable public course website for Fall 2026
+  CS C249A — graduate seminar, bCourses only
+  EECS 70  — FullCalendar JS widget
 """
 
 import json
@@ -15,7 +23,7 @@ import re
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-from parsers import alpha, beta, delta, epsilon, gamma, zeta
+from parsers import alpha, beta, delta, epsilon, eta, gamma, zeta
 from parsers.base import get_soup
 
 # ---------------------------------------------------------------------------
@@ -66,6 +74,10 @@ CLASSES = [
     ("CS 152",   "https://cs152.org/",              delta,   None),
     ("CS 161",   "https://fa26.cs161.org/",         delta,   None),
     ("CS 168",   "https://fa26.cs168.io/",          delta,   None),
+    ("CS 188",   "https://inst.eecs.berkeley.edu/~cs188/fa26/", delta, None),
+    ("CS 184",   "https://cs184.eecs.berkeley.edu/fa26",        eta,   None),
+    ("CS 186",   "https://cs186berkeley.net/",                  eta,   None),
+    ("CS C182",  "https://berkeley-cs182.github.io/fa26/schedule/", zeta, None),
 ]
 
 OUTPUT_FILE = "deadlines.json"

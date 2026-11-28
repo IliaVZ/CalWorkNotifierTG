@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22",
+  "generated": "2026-11-28",
   "classes": {
     "CS 61A": [
       {
@@ -472,7 +472,7 @@
         "title": "Project 5C: BYOW Interactivity",
         "raw_due": "2026/12/01",
         "due": "2026-12-01",
-        "url": null
+        "url": "https://fa26.datastructur.es/proj5/proj5c"
       }
     ]
   }
