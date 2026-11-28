@@ -2,9 +2,9 @@ name: Update deadlines
 
 on:
   schedule:
-    # 14:00 UTC = 6am PST (UTC-8) / 7am PDT (UTC-7) -- morning in both seasons,
-    # no DST split needed. GitHub may delay by 1-3h; delivery lands ~7-9am Pacific.
-    - cron: "0 14 * * *"
+    # Observed GitHub queue delay is ~8h. Fire at 06:00 UTC so the job
+    # actually runs around 14:00 UTC = 6am PST / 7am PDT.
+    - cron: "0 6 * * *"
   workflow_dispatch:  # "Run workflow" button on GitHub, for testing
 
 permissions:
@@ -41,7 +41,7 @@ jobs:
         run: |
           git config user.name "deadline-bot"
           git config user.email "deadline-bot@users.noreply.github.com"
-          git add deadlines.json daily.txt weekly.txt
+          git add deadlines.json active_deadlines.json daily.txt weekly.txt
           git diff --cached --quiet || git commit -m "Update deadlines $(TZ=America/Los_Angeles date +%F)"
           git push
 

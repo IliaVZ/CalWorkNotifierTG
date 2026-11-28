@@ -1,12 +1,18 @@
-🗓 This week (Mon Nov 23 – Sun Nov 29)
+🗓 This week (Mon Nov 30 – Sun Dec 6)
 
-• Tue Nov 24 — CS 61A: Project 4 Animator (checkpoint 2)
+• Mon Nov 30 — Data C8: Project 3 (checkpoint)
+  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject3%2Fproject3.ipynb
+• Tue Dec 1 — CS 47B: Project 5C: BYOW Interactivity
+  no link yet
+• Wed Dec 2 — CS 61A: Project 4 Animator
   https://cs61a.org/fa26/projects/animator/
-• Tue Nov 24 — CS 61A: Project 4 Animator (TypeScript) (checkpoint 2)
+• Wed Dec 2 — CS 61A: Project 4 Animator (TypeScript)
   https://cs61a.org/fa26/projects/animator-ts/
-• Tue Nov 24 — CS 47B: Project 5B: BYOW World Generation
-  https://fa26.datastructur.es/proj5/proj5b
-• Wed Nov 25 — Data C8: Homework 10 Regression Inference
-  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fhw%2Fhw10%2Fhw10.ipynb
-• Sun Nov 29 — CS 61A: Homework 9 SQL
-  https://cs61a.org/fa26/hw/hw09/
+• Wed Dec 2 — CS 61A: Lab 11 Testing
+  no link yet
+• Fri Dec 4 — Data C8: Project 3 (entire project)
+  https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa26&branch=main&urlpath=tree%2Fmaterials-fa26%2Fproject%2Fproject3%2Fproject3.ipynb
+• Fri Dec 4 — Data C8: Lab 10
+  no link yet
+• Sun Dec 6 — Data C8: Homework 11 Classification
+  no link yet

@@ -2,42 +2,22 @@ name: Send weekly Telegram message
 
 on:
   schedule:
-    # Daily is handled by update.yml. This workflow only sends the weekly summary.
-    # GitHub cron runs on UTC, and Pacific time shifts by an hour with daylight
-    # saving. So two schedules, and the "Pick schedule" step lets through the right one.
-    - cron: "0 4 * * 2"   # Mon 9pm PDT (= Tue 04:00 UTC, offset -0700)
-    - cron: "0 5 * * 2"   # Mon 9pm PST (= Tue 05:00 UTC, offset -0800)
+    # Observed GitHub queue delay is ~8h. Fire Mon 06:00 UTC (= Sun 10pm PST /
+    # Sun 11pm PDT) so the job actually runs around Mon 14:00 UTC = Mon 6am PST.
+    - cron: "0 6 * * 1"
   workflow_dispatch:  # "Run workflow" button on GitHub, for testing
 
 jobs:
   send:
     runs-on: ubuntu-latest
     steps:
-      - name: Pick schedule
-        id: pick
-        run: |
-          case "${{ github.event.schedule }}" in
-            "0 4 * * 2") want=-0700 ;;
-            "0 5 * * 2") want=-0800 ;;
-            *)           want=any ;;
-          esac
-          offset=$(TZ=America/Los_Angeles date +%z)
-          if [ "$want" != any ] && [ "$want" != "$offset" ]; then
-            echo "Pacific offset is $offset, this schedule is for $want -- skipping"
-            echo "send=no" >> "$GITHUB_OUTPUT"
-          else
-            echo "send=yes" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: Download weekly message from the repo
-        if: steps.pick.outputs.send == 'yes'
         run: |
           curl --fail -sS -o message.txt \
             "https://raw.githubusercontent.com/${{ github.repository }}/main/weekly.txt"
           cat message.txt
 
       - name: Send to Telegram
-        if: steps.pick.outputs.send == 'yes'
         env:
           TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

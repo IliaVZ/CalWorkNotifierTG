@@ -66,9 +66,11 @@ def daily_message(deadlines, today):
 
 
 def weekly_message(deadlines, today):
-    """The 7 days after today, sorted by date across all classes."""
-    start = (date.fromisoformat(today) + timedelta(days=1)).isoformat()
-    end = (date.fromisoformat(today) + timedelta(days=7)).isoformat()
+    """Mon–Sun of the current ISO week, sorted by date across all classes."""
+    today_dt = date.fromisoformat(today)
+    monday = today_dt - timedelta(days=today_dt.weekday())  # always this week's Mon
+    start = monday.isoformat()
+    end = (monday + timedelta(days=6)).isoformat()
     week = sorted((d for d in deadlines if d["due"] and start <= d["due"] <= end),
                   key=lambda d: d["due"])
 
