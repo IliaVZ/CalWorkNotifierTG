@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22",
+  "generated": "2026-11-27",
   "classes": {
     "CS 61A": [
       {
@@ -520,7 +520,7 @@
         "title": "Project 5C: BYOW Interactivity",
         "raw_due": "2026/12/01",
         "due": "2026-12-01",
-        "url": null
+        "url": "https://fa26.datastructur.es/proj5/proj5c"
       },
       {
         "title": "Week 1 survey",
@@ -599,6 +599,12 @@
         "raw_due": "2026-11-24",
         "due": "2026-11-24",
         "url": "https://forms.gle/2uCiuWGTCLLdpEBN6"
+      },
+      {
+        "title": "Week 14 survey",
+        "raw_due": "2026-12-1",
+        "due": null,
+        "url": "https://forms.gle/4jH8wAxhJp4UQU8x5"
       },
       {
         "title": "Week 15 survey",
@@ -690,7 +696,7 @@
         "title": "Project 5C: BYOW Interactivity",
         "raw_due": "2026/12/01",
         "due": "2026-12-01",
-        "url": null
+        "url": "https://fa26.datastructur.es/proj5/proj5c"
       }
     ],
     "CS 61C": [
@@ -1019,6 +1025,12 @@
         "raw_due": "Nov 23 at 5 PM",
         "due": "2026-11-23",
         "url": "http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-140-berkeley/materials-fa26&branch=main&subPath=hw/Homework_13.ipynb"
+      },
+      {
+        "title": "Homework 14",
+        "raw_due": "Nov 30 at 5 PM",
+        "due": "2026-11-30",
+        "url": "http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-140-berkeley/materials-fa26&branch=main&subPath=hw/Homework_14.ipynb"
       }
     ],
     "DS 100": [
@@ -1208,8 +1220,8 @@
       },
       {
         "title": "Lab 6",
-        "raw_due": "Thu Dec 03",
-        "due": "2026-12-03",
+        "raw_due": "Sun Dec 06",
+        "due": "2026-12-06",
         "url": "https://cs152.org/lab/lab6/"
       }
     ],
@@ -1296,7 +1308,7 @@
         "title": "HW7",
         "raw_due": "Mon Dec 07",
         "due": "2026-12-07",
-        "url": null
+        "url": "https://fa26-hw.cs161.org/"
       }
     ],
     "CS 168": [
@@ -1338,8 +1350,8 @@
       },
       {
         "title": "Project 3 Stage 3 (Transport)",
-        "raw_due": "TBD",
-        "due": null,
+        "raw_due": "Fri Dec 04",
+        "due": "2026-12-04",
         "url": "https://fa26.cs168.io/proj3/"
       }
     ]
